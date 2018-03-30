@@ -1,0 +1,16 @@
+{
+    "Stripe Statistics": [], 
+    "compression_size": 65536, 
+    "rows": 0, 
+    "compression": "NONE", 
+    "File Statistics": [
+        {
+            "column": 0, 
+            "count": 0, 
+            "has null": false
+        }
+    ], 
+    "Stripes": [], 
+    "version": "19.99 with HIVE-8732", 
+    "schema": "struct<>"
+}

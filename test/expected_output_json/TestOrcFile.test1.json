@@ -1,0 +1,748 @@
+{
+    "Stripe Statistics": [
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 2, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 2, 
+                    "has null": false
+                }, 
+                {
+                    "count": 2, 
+                    "min": 1, 
+                    "column": 2, 
+                    "max": 100, 
+                    "sum": 101, 
+                    "has null": false
+                }, 
+                {
+                    "count": 2, 
+                    "min": 1024, 
+                    "column": 3, 
+                    "max": 2048, 
+                    "sum": 3072, 
+                    "has null": false
+                }, 
+                {
+                    "count": 2, 
+                    "min": 65536, 
+                    "column": 4, 
+                    "max": 65536, 
+                    "sum": 131072, 
+                    "has null": false
+                }, 
+                {
+                    "column": 5, 
+                    "count": 2, 
+                    "max": -1, 
+                    "min": -1, 
+                    "has null": false
+                }, 
+                {
+                    "count": 2, 
+                    "min": 1.0, 
+                    "column": 6, 
+                    "max": 2.0, 
+                    "sum": 3.0, 
+                    "has null": false
+                }, 
+                {
+                    "count": 2, 
+                    "min": -15.0, 
+                    "column": 7, 
+                    "max": -5.0, 
+                    "sum": -20.0, 
+                    "has null": false
+                }, 
+                {
+                    "column": 8, 
+                    "count": 2, 
+                    "has null": false
+                }, 
+                {
+                    "count": 2, 
+                    "min": "bye", 
+                    "column": 9, 
+                    "max": "hi", 
+                    "sum": 5, 
+                    "has null": false
+                }, 
+                {
+                    "column": 10, 
+                    "count": 2, 
+                    "has null": false
+                }, 
+                {
+                    "column": 11, 
+                    "count": 2, 
+                    "has null": false
+                }, 
+                {
+                    "column": 12, 
+                    "count": 4, 
+                    "has null": false
+                }, 
+                {
+                    "count": 4, 
+                    "min": 1, 
+                    "column": 13, 
+                    "max": 2, 
+                    "sum": 6, 
+                    "has null": false
+                }, 
+                {
+                    "count": 4, 
+                    "min": "bye", 
+                    "column": 14, 
+                    "max": "sigh", 
+                    "sum": 14, 
+                    "has null": false
+                }, 
+                {
+                    "column": 15, 
+                    "count": 2, 
+                    "has null": false
+                }, 
+                {
+                    "column": 16, 
+                    "count": 5, 
+                    "has null": false
+                }, 
+                {
+                    "count": 5, 
+                    "min": -100000, 
+                    "column": 17, 
+                    "max": 100000000, 
+                    "sum": 99901241, 
+                    "has null": false
+                }, 
+                {
+                    "count": 5, 
+                    "min": "bad", 
+                    "column": 18, 
+                    "max": "in", 
+                    "sum": 15, 
+                    "has null": false
+                }, 
+                {
+                    "column": 19, 
+                    "count": 2, 
+                    "has null": false
+                }, 
+                {
+                    "count": 2, 
+                    "min": "chani", 
+                    "column": 20, 
+                    "max": "mauddib", 
+                    "sum": 12, 
+                    "has null": false
+                }, 
+                {
+                    "column": 21, 
+                    "count": 2, 
+                    "has null": false
+                }, 
+                {
+                    "count": 2, 
+                    "min": 1, 
+                    "column": 22, 
+                    "max": 5, 
+                    "sum": 6, 
+                    "has null": false
+                }, 
+                {
+                    "count": 2, 
+                    "min": "chani", 
+                    "column": 23, 
+                    "max": "mauddib", 
+                    "sum": 12, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 0
+        }
+    ], 
+    "compression_size": 10000, 
+    "rows": 2, 
+    "compression": "ZLIB", 
+    "File Statistics": [
+        {
+            "column": 0, 
+            "count": 2, 
+            "has null": false
+        }, 
+        {
+            "column": 1, 
+            "count": 2, 
+            "has null": false
+        }, 
+        {
+            "count": 2, 
+            "min": 1, 
+            "column": 2, 
+            "max": 100, 
+            "sum": 101, 
+            "has null": false
+        }, 
+        {
+            "count": 2, 
+            "min": 1024, 
+            "column": 3, 
+            "max": 2048, 
+            "sum": 3072, 
+            "has null": false
+        }, 
+        {
+            "count": 2, 
+            "min": 65536, 
+            "column": 4, 
+            "max": 65536, 
+            "sum": 131072, 
+            "has null": false
+        }, 
+        {
+            "column": 5, 
+            "count": 2, 
+            "max": -1, 
+            "min": -1, 
+            "has null": false
+        }, 
+        {
+            "count": 2, 
+            "min": 1.0, 
+            "column": 6, 
+            "max": 2.0, 
+            "sum": 3.0, 
+            "has null": false
+        }, 
+        {
+            "count": 2, 
+            "min": -15.0, 
+            "column": 7, 
+            "max": -5.0, 
+            "sum": -20.0, 
+            "has null": false
+        }, 
+        {
+            "column": 8, 
+            "count": 2, 
+            "has null": false
+        }, 
+        {
+            "count": 2, 
+            "min": "bye", 
+            "column": 9, 
+            "max": "hi", 
+            "sum": 5, 
+            "has null": false
+        }, 
+        {
+            "column": 10, 
+            "count": 2, 
+            "has null": false
+        }, 
+        {
+            "column": 11, 
+            "count": 2, 
+            "has null": false
+        }, 
+        {
+            "column": 12, 
+            "count": 4, 
+            "has null": false
+        }, 
+        {
+            "count": 4, 
+            "min": 1, 
+            "column": 13, 
+            "max": 2, 
+            "sum": 6, 
+            "has null": false
+        }, 
+        {
+            "count": 4, 
+            "min": "bye", 
+            "column": 14, 
+            "max": "sigh", 
+            "sum": 14, 
+            "has null": false
+        }, 
+        {
+            "column": 15, 
+            "count": 2, 
+            "has null": false
+        }, 
+        {
+            "column": 16, 
+            "count": 5, 
+            "has null": false
+        }, 
+        {
+            "count": 5, 
+            "min": -100000, 
+            "column": 17, 
+            "max": 100000000, 
+            "sum": 99901241, 
+            "has null": false
+        }, 
+        {
+            "count": 5, 
+            "min": "bad", 
+            "column": 18, 
+            "max": "in", 
+            "sum": 15, 
+            "has null": false
+        }, 
+        {
+            "column": 19, 
+            "count": 2, 
+            "has null": false
+        }, 
+        {
+            "count": 2, 
+            "min": "chani", 
+            "column": 20, 
+            "max": "mauddib", 
+            "sum": 12, 
+            "has null": false
+        }, 
+        {
+            "column": 21, 
+            "count": 2, 
+            "has null": false
+        }, 
+        {
+            "count": 2, 
+            "min": 1, 
+            "column": 22, 
+            "max": 5, 
+            "sum": 6, 
+            "has null": false
+        }, 
+        {
+            "count": 2, 
+            "min": "chani", 
+            "column": 23, 
+            "max": "mauddib", 
+            "sum": 12, 
+            "has null": false
+        }
+    ], 
+    "Stripes": [
+        {
+            "index": 570, 
+            "rows": 2, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 3, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 4, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 5, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 6, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 7, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 8, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 9, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 10, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 11, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 12, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 13, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 14, 
+                    "encoding": "DICTIONARY_V2[2]"
+                }, 
+                {
+                    "column": 15, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 16, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 17, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 18, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 19, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 20, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 21, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 22, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 23, 
+                    "encoding": "DIRECT_V2"
+                }
+            ], 
+            "tail": 199, 
+            "Streams": [
+                {
+                    "column": 0, 
+                    "start": 3, 
+                    "section": "ROW_INDEX", 
+                    "length": 11
+                }, 
+                {
+                    "column": 1, 
+                    "start": 14, 
+                    "section": "ROW_INDEX", 
+                    "length": 22
+                }, 
+                {
+                    "column": 2, 
+                    "start": 36, 
+                    "section": "ROW_INDEX", 
+                    "length": 26
+                }, 
+                {
+                    "column": 3, 
+                    "start": 62, 
+                    "section": "ROW_INDEX", 
+                    "length": 27
+                }, 
+                {
+                    "column": 4, 
+                    "start": 89, 
+                    "section": "ROW_INDEX", 
+                    "length": 30
+                }, 
+                {
+                    "column": 5, 
+                    "start": 119, 
+                    "section": "ROW_INDEX", 
+                    "length": 28
+                }, 
+                {
+                    "column": 6, 
+                    "start": 147, 
+                    "section": "ROW_INDEX", 
+                    "length": 34
+                }, 
+                {
+                    "column": 7, 
+                    "start": 181, 
+                    "section": "ROW_INDEX", 
+                    "length": 34
+                }, 
+                {
+                    "column": 8, 
+                    "start": 215, 
+                    "section": "ROW_INDEX", 
+                    "length": 21
+                }, 
+                {
+                    "column": 9, 
+                    "start": 236, 
+                    "section": "ROW_INDEX", 
+                    "length": 30
+                }, 
+                {
+                    "column": 10, 
+                    "start": 266, 
+                    "section": "ROW_INDEX", 
+                    "length": 11
+                }, 
+                {
+                    "column": 11, 
+                    "start": 277, 
+                    "section": "ROW_INDEX", 
+                    "length": 16
+                }, 
+                {
+                    "column": 12, 
+                    "start": 293, 
+                    "section": "ROW_INDEX", 
+                    "length": 11
+                }, 
+                {
+                    "column": 13, 
+                    "start": 304, 
+                    "section": "ROW_INDEX", 
+                    "length": 24
+                }, 
+                {
+                    "column": 14, 
+                    "start": 328, 
+                    "section": "ROW_INDEX", 
+                    "length": 31
+                }, 
+                {
+                    "column": 15, 
+                    "start": 359, 
+                    "section": "ROW_INDEX", 
+                    "length": 16
+                }, 
+                {
+                    "column": 16, 
+                    "start": 375, 
+                    "section": "ROW_INDEX", 
+                    "length": 11
+                }, 
+                {
+                    "column": 17, 
+                    "start": 386, 
+                    "section": "ROW_INDEX", 
+                    "length": 32
+                }, 
+                {
+                    "column": 18, 
+                    "start": 418, 
+                    "section": "ROW_INDEX", 
+                    "length": 30
+                }, 
+                {
+                    "column": 19, 
+                    "start": 448, 
+                    "section": "ROW_INDEX", 
+                    "length": 16
+                }, 
+                {
+                    "column": 20, 
+                    "start": 464, 
+                    "section": "ROW_INDEX", 
+                    "length": 37
+                }, 
+                {
+                    "column": 21, 
+                    "start": 501, 
+                    "section": "ROW_INDEX", 
+                    "length": 11
+                }, 
+                {
+                    "column": 22, 
+                    "start": 512, 
+                    "section": "ROW_INDEX", 
+                    "length": 24
+                }, 
+                {
+                    "column": 23, 
+                    "start": 536, 
+                    "section": "ROW_INDEX", 
+                    "length": 37
+                }, 
+                {
+                    "column": 1, 
+                    "start": 573, 
+                    "section": "DATA", 
+                    "length": 5
+                }, 
+                {
+                    "column": 2, 
+                    "start": 578, 
+                    "section": "DATA", 
+                    "length": 6
+                }, 
+                {
+                    "column": 3, 
+                    "start": 584, 
+                    "section": "DATA", 
+                    "length": 9
+                }, 
+                {
+                    "column": 4, 
+                    "start": 593, 
+                    "section": "DATA", 
+                    "length": 11
+                }, 
+                {
+                    "column": 5, 
+                    "start": 604, 
+                    "section": "DATA", 
+                    "length": 12
+                }, 
+                {
+                    "column": 6, 
+                    "start": 616, 
+                    "section": "DATA", 
+                    "length": 11
+                }, 
+                {
+                    "column": 7, 
+                    "start": 627, 
+                    "section": "DATA", 
+                    "length": 15
+                }, 
+                {
+                    "column": 8, 
+                    "start": 642, 
+                    "section": "DATA", 
+                    "length": 8
+                }, 
+                {
+                    "column": 8, 
+                    "start": 650, 
+                    "section": "LENGTH", 
+                    "length": 6
+                }, 
+                {
+                    "column": 9, 
+                    "start": 656, 
+                    "section": "DATA", 
+                    "length": 8
+                }, 
+                {
+                    "column": 9, 
+                    "start": 664, 
+                    "section": "LENGTH", 
+                    "length": 6
+                }, 
+                {
+                    "column": 11, 
+                    "start": 670, 
+                    "section": "LENGTH", 
+                    "length": 6
+                }, 
+                {
+                    "column": 13, 
+                    "start": 676, 
+                    "section": "DATA", 
+                    "length": 7
+                }, 
+                {
+                    "column": 14, 
+                    "start": 683, 
+                    "section": "DATA", 
+                    "length": 6
+                }, 
+                {
+                    "column": 14, 
+                    "start": 689, 
+                    "section": "LENGTH", 
+                    "length": 6
+                }, 
+                {
+                    "column": 14, 
+                    "start": 695, 
+                    "section": "DICTIONARY_DATA", 
+                    "length": 10
+                }, 
+                {
+                    "column": 15, 
+                    "start": 705, 
+                    "section": "LENGTH", 
+                    "length": 6
+                }, 
+                {
+                    "column": 17, 
+                    "start": 711, 
+                    "section": "DATA", 
+                    "length": 25
+                }, 
+                {
+                    "column": 18, 
+                    "start": 736, 
+                    "section": "DATA", 
+                    "length": 18
+                }, 
+                {
+                    "column": 18, 
+                    "start": 754, 
+                    "section": "LENGTH", 
+                    "length": 8
+                }, 
+                {
+                    "column": 19, 
+                    "start": 762, 
+                    "section": "LENGTH", 
+                    "length": 6
+                }, 
+                {
+                    "column": 20, 
+                    "start": 768, 
+                    "section": "DATA", 
+                    "length": 15
+                }, 
+                {
+                    "column": 20, 
+                    "start": 783, 
+                    "section": "LENGTH", 
+                    "length": 6
+                }, 
+                {
+                    "column": 22, 
+                    "start": 789, 
+                    "section": "DATA", 
+                    "length": 6
+                }, 
+                {
+                    "column": 23, 
+                    "start": 795, 
+                    "section": "DATA", 
+                    "length": 15
+                }, 
+                {
+                    "column": 23, 
+                    "start": 810, 
+                    "section": "LENGTH", 
+                    "length": 6
+                }
+            ], 
+            "stripe": 0, 
+            "offset": 3, 
+            "data": 243
+        }
+    ], 
+    "version": "0.12 with HIVE-8732", 
+    "schema": "struct<boolean1:boolean,byte1:byte,short1:tinyint,int1:int,long1:bigint,float1:float,double1:double,bytes1:binary,string1:string,middle:struct<list:array<struct<int1:int,string1:string>>>,list:array<struct<int1:int,string1:string>>,map:map<string,struct<int1:int,string1:string>>>"
+}

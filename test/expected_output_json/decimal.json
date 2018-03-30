@@ -1,0 +1,94 @@
+{
+    "Stripe Statistics": [
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 6000, 
+                    "has null": false
+                }, 
+                {
+                    "count": 4000, 
+                    "min": "-1000.5", 
+                    "column": 1, 
+                    "max": "1999.2", 
+                    "sum": "1998301.099", 
+                    "has null": false
+                }
+            ], 
+            "stripe": 0
+        }
+    ], 
+    "compression_size": 0, 
+    "rows": 6000, 
+    "compression": "NONE", 
+    "File Statistics": [
+        {
+            "column": 0, 
+            "count": 6000, 
+            "has null": false
+        }, 
+        {
+            "count": 4000, 
+            "min": "-1000.5", 
+            "column": 1, 
+            "max": "1999.2", 
+            "sum": "1998301.099", 
+            "has null": false
+        }
+    ], 
+    "Stripes": [
+        {
+            "index": 54, 
+            "rows": 6000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }
+            ], 
+            "tail": 50, 
+            "Streams": [
+                {
+                    "column": 0, 
+                    "start": 3, 
+                    "section": "ROW_INDEX", 
+                    "length": 7
+                }, 
+                {
+                    "column": 1, 
+                    "start": 10, 
+                    "section": "ROW_INDEX", 
+                    "length": 47
+                }, 
+                {
+                    "column": 1, 
+                    "start": 57, 
+                    "section": "PRESENT", 
+                    "length": 12
+                }, 
+                {
+                    "column": 1, 
+                    "start": 69, 
+                    "section": "DATA", 
+                    "length": 13673
+                }, 
+                {
+                    "column": 1, 
+                    "start": 13742, 
+                    "section": "SECONDARY", 
+                    "length": 2394
+                }
+            ], 
+            "stripe": 0, 
+            "offset": 3, 
+            "data": 16079
+        }
+    ], 
+    "version": "0.12 with original", 
+    "schema": "struct<_col0:decimal>"
+}

@@ -1,0 +1,39 @@
+(dp0
+S'Stripe Statistics'
+p1
+(lp2
+sS'compression_size'
+p3
+L65536L
+sS'rows'
+p4
+L0L
+sS'compression'
+p5
+S'NONE'
+p6
+sS'File Statistics'
+p7
+(lp8
+(dp9
+S'column'
+p10
+I0
+sS'count'
+p11
+I0
+sS'has null'
+p12
+I00
+sasS'Stripes'
+p13
+(lp14
+sS'version'
+p15
+S'19.99 with HIVE-8732'
+p16
+sS'schema'
+p17
+S'struct<>'
+p18
+s.

@@ -1,0 +1,886 @@
+{
+    "Stripe Statistics": [
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 1049, 
+                    "has null": false
+                }, 
+                {
+                    "count": 1046, 
+                    "min": -3, 
+                    "column": 1, 
+                    "max": 124, 
+                    "sum": 62430, 
+                    "has null": true
+                }, 
+                {
+                    "count": 1046, 
+                    "min": 256, 
+                    "column": 2, 
+                    "max": 511, 
+                    "sum": 398889, 
+                    "has null": true
+                }, 
+                {
+                    "count": 1049, 
+                    "min": 65536, 
+                    "column": 3, 
+                    "max": 65791, 
+                    "sum": 68881051, 
+                    "has null": false
+                }, 
+                {
+                    "count": 1049, 
+                    "min": 0, 
+                    "column": 4, 
+                    "max": 255, 
+                    "sum": 132449, 
+                    "has null": false
+                }, 
+                {
+                    "count": 1049, 
+                    "min": 0.07999999821186066, 
+                    "column": 5, 
+                    "max": 99.91999816894531, 
+                    "sum": 52744.70002820343, 
+                    "has null": false
+                }, 
+                {
+                    "count": 1049, 
+                    "min": 0.02, 
+                    "column": 6, 
+                    "max": 49.85, 
+                    "sum": 26286.349999999966, 
+                    "has null": false
+                }, 
+                {
+                    "column": 7, 
+                    "count": 1049, 
+                    "has null": false
+                }, 
+                {
+                    "count": 1049, 
+                    "min": "", 
+                    "column": 8, 
+                    "max": "zach zipper", 
+                    "sum": 13443, 
+                    "has null": false
+                }, 
+                {
+                    "column": 9, 
+                    "count": 1049, 
+                    "has null": false
+                }, 
+                {
+                    "count": 1049, 
+                    "min": "0.08", 
+                    "column": 10, 
+                    "max": "99.94", 
+                    "sum": "53646.16", 
+                    "has null": false
+                }, 
+                {
+                    "column": 11, 
+                    "count": 1049, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 0
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 1049, 
+                    "has null": false
+                }, 
+                {
+                    "count": 1049, 
+                    "min": -100, 
+                    "column": 1, 
+                    "max": -100, 
+                    "sum": -104900, 
+                    "has null": false
+                }, 
+                {
+                    "count": 1049, 
+                    "min": -1000, 
+                    "column": 2, 
+                    "max": -1000, 
+                    "sum": -1049000, 
+                    "has null": false
+                }, 
+                {
+                    "count": 1049, 
+                    "min": -10000, 
+                    "column": 3, 
+                    "max": -10000, 
+                    "sum": -10490000, 
+                    "has null": false
+                }, 
+                {
+                    "count": 1049, 
+                    "min": -1000000, 
+                    "column": 4, 
+                    "max": -1000000, 
+                    "sum": -1049000000, 
+                    "has null": false
+                }, 
+                {
+                    "count": 1049, 
+                    "min": -100.0, 
+                    "column": 5, 
+                    "max": -100.0, 
+                    "sum": -104900.0, 
+                    "has null": false
+                }, 
+                {
+                    "count": 1049, 
+                    "min": -10.0, 
+                    "column": 6, 
+                    "max": -10.0, 
+                    "sum": -10490.0, 
+                    "has null": false
+                }, 
+                {
+                    "column": 7, 
+                    "count": 1049, 
+                    "has null": false
+                }, 
+                {
+                    "column": 8, 
+                    "count": 0, 
+                    "max": null, 
+                    "min": null, 
+                    "has null": true
+                }, 
+                {
+                    "column": 9, 
+                    "count": 0, 
+                    "has null": true
+                }, 
+                {
+                    "count": 0, 
+                    "min": null, 
+                    "column": 10, 
+                    "max": null, 
+                    "sum": "0", 
+                    "has null": true
+                }, 
+                {
+                    "column": 11, 
+                    "count": 0, 
+                    "has null": true
+                }
+            ], 
+            "stripe": 1
+        }
+    ], 
+    "compression_size": 262144, 
+    "rows": 2098, 
+    "compression": "ZLIB", 
+    "File Statistics": [
+        {
+            "column": 0, 
+            "count": 2098, 
+            "has null": false
+        }, 
+        {
+            "count": 2095, 
+            "min": -100, 
+            "column": 1, 
+            "max": 124, 
+            "sum": -42470, 
+            "has null": true
+        }, 
+        {
+            "count": 2095, 
+            "min": -1000, 
+            "column": 2, 
+            "max": 511, 
+            "sum": -650111, 
+            "has null": true
+        }, 
+        {
+            "count": 2098, 
+            "min": -10000, 
+            "column": 3, 
+            "max": 65791, 
+            "sum": 58391051, 
+            "has null": false
+        }, 
+        {
+            "count": 2098, 
+            "min": -1000000, 
+            "column": 4, 
+            "max": 255, 
+            "sum": -1048867551, 
+            "has null": false
+        }, 
+        {
+            "count": 2098, 
+            "min": -100.0, 
+            "column": 5, 
+            "max": 99.91999816894531, 
+            "sum": -52155.29997179657, 
+            "has null": false
+        }, 
+        {
+            "count": 2098, 
+            "min": -10.0, 
+            "column": 6, 
+            "max": 49.85, 
+            "sum": 15796.349999999966, 
+            "has null": false
+        }, 
+        {
+            "column": 7, 
+            "count": 2098, 
+            "has null": false
+        }, 
+        {
+            "count": 1049, 
+            "min": "", 
+            "column": 8, 
+            "max": "zach zipper", 
+            "sum": 13443, 
+            "has null": true
+        }, 
+        {
+            "column": 9, 
+            "count": 1049, 
+            "has null": true
+        }, 
+        {
+            "count": 1049, 
+            "min": "0.08", 
+            "column": 10, 
+            "max": "99.94", 
+            "sum": "53646.16", 
+            "has null": true
+        }, 
+        {
+            "column": 11, 
+            "count": 1049, 
+            "has null": true
+        }
+    ], 
+    "Stripes": [
+        {
+            "index": 17615, 
+            "rows": 1049, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 3, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 4, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 5, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 6, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 7, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 8, 
+                    "encoding": "DICTIONARY_V2[516]"
+                }, 
+                {
+                    "column": 9, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 10, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 11, 
+                    "encoding": "DIRECT_V2"
+                }
+            ], 
+            "tail": 225, 
+            "Streams": [
+                {
+                    "column": 0, 
+                    "start": 3, 
+                    "section": "ROW_INDEX", 
+                    "length": 12
+                }, 
+                {
+                    "column": 1, 
+                    "start": 15, 
+                    "section": "ROW_INDEX", 
+                    "length": 30
+                }, 
+                {
+                    "column": 1, 
+                    "start": 45, 
+                    "section": "BLOOM_FILTER", 
+                    "length": 1097
+                }, 
+                {
+                    "column": 2, 
+                    "start": 1142, 
+                    "section": "ROW_INDEX", 
+                    "length": 31
+                }, 
+                {
+                    "column": 2, 
+                    "start": 1173, 
+                    "section": "BLOOM_FILTER", 
+                    "length": 1698
+                }, 
+                {
+                    "column": 3, 
+                    "start": 2871, 
+                    "section": "ROW_INDEX", 
+                    "length": 32
+                }, 
+                {
+                    "column": 3, 
+                    "start": 2903, 
+                    "section": "BLOOM_FILTER", 
+                    "length": 1715
+                }, 
+                {
+                    "column": 4, 
+                    "start": 4618, 
+                    "section": "ROW_INDEX", 
+                    "length": 39
+                }, 
+                {
+                    "column": 4, 
+                    "start": 4657, 
+                    "section": "BLOOM_FILTER", 
+                    "length": 1687
+                }, 
+                {
+                    "column": 5, 
+                    "start": 6344, 
+                    "section": "ROW_INDEX", 
+                    "length": 44
+                }, 
+                {
+                    "column": 5, 
+                    "start": 6388, 
+                    "section": "BLOOM_FILTER", 
+                    "length": 3985
+                }, 
+                {
+                    "column": 6, 
+                    "start": 10373, 
+                    "section": "ROW_INDEX", 
+                    "length": 45
+                }, 
+                {
+                    "column": 6, 
+                    "start": 10418, 
+                    "section": "BLOOM_FILTER", 
+                    "length": 3834
+                }, 
+                {
+                    "column": 7, 
+                    "start": 14252, 
+                    "section": "ROW_INDEX", 
+                    "length": 24
+                }, 
+                {
+                    "column": 7, 
+                    "start": 14276, 
+                    "section": "BLOOM_FILTER", 
+                    "length": 40
+                }, 
+                {
+                    "column": 8, 
+                    "start": 14316, 
+                    "section": "ROW_INDEX", 
+                    "length": 38
+                }, 
+                {
+                    "column": 8, 
+                    "start": 14354, 
+                    "section": "BLOOM_FILTER", 
+                    "length": 2695
+                }, 
+                {
+                    "column": 9, 
+                    "start": 17049, 
+                    "section": "ROW_INDEX", 
+                    "length": 30
+                }, 
+                {
+                    "column": 9, 
+                    "start": 17079, 
+                    "section": "BLOOM_FILTER", 
+                    "length": 65
+                }, 
+                {
+                    "column": 10, 
+                    "start": 17144, 
+                    "section": "ROW_INDEX", 
+                    "length": 43
+                }, 
+                {
+                    "column": 11, 
+                    "start": 17187, 
+                    "section": "ROW_INDEX", 
+                    "length": 25
+                }, 
+                {
+                    "column": 11, 
+                    "start": 17212, 
+                    "section": "BLOOM_FILTER", 
+                    "length": 406
+                }, 
+                {
+                    "column": 1, 
+                    "start": 17618, 
+                    "section": "PRESENT", 
+                    "length": 17
+                }, 
+                {
+                    "column": 1, 
+                    "start": 17635, 
+                    "section": "DATA", 
+                    "length": 962
+                }, 
+                {
+                    "column": 2, 
+                    "start": 18597, 
+                    "section": "PRESENT", 
+                    "length": 17
+                }, 
+                {
+                    "column": 2, 
+                    "start": 18614, 
+                    "section": "DATA", 
+                    "length": 1441
+                }, 
+                {
+                    "column": 3, 
+                    "start": 20055, 
+                    "section": "DATA", 
+                    "length": 1704
+                }, 
+                {
+                    "column": 4, 
+                    "start": 21759, 
+                    "section": "DATA", 
+                    "length": 1998
+                }, 
+                {
+                    "column": 5, 
+                    "start": 23757, 
+                    "section": "DATA", 
+                    "length": 2925
+                }, 
+                {
+                    "column": 6, 
+                    "start": 26682, 
+                    "section": "DATA", 
+                    "length": 3323
+                }, 
+                {
+                    "column": 7, 
+                    "start": 30005, 
+                    "section": "DATA", 
+                    "length": 137
+                }, 
+                {
+                    "column": 8, 
+                    "start": 30142, 
+                    "section": "DATA", 
+                    "length": 1572
+                }, 
+                {
+                    "column": 8, 
+                    "start": 31714, 
+                    "section": "LENGTH", 
+                    "length": 310
+                }, 
+                {
+                    "column": 8, 
+                    "start": 32024, 
+                    "section": "DICTIONARY_DATA", 
+                    "length": 1548
+                }, 
+                {
+                    "column": 9, 
+                    "start": 33572, 
+                    "section": "DATA", 
+                    "length": 62
+                }, 
+                {
+                    "column": 9, 
+                    "start": 33634, 
+                    "section": "SECONDARY", 
+                    "length": 1783
+                }, 
+                {
+                    "column": 10, 
+                    "start": 35417, 
+                    "section": "DATA", 
+                    "length": 2138
+                }, 
+                {
+                    "column": 10, 
+                    "start": 37555, 
+                    "section": "SECONDARY", 
+                    "length": 231
+                }, 
+                {
+                    "column": 11, 
+                    "start": 37786, 
+                    "section": "DATA", 
+                    "length": 1877
+                }, 
+                {
+                    "column": 11, 
+                    "start": 39663, 
+                    "section": "LENGTH", 
+                    "length": 591
+                }
+            ], 
+            "stripe": 0, 
+            "offset": 3, 
+            "data": 22636
+        }, 
+        {
+            "index": 844, 
+            "rows": 1049, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 3, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 4, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 5, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 6, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 7, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 8, 
+                    "encoding": "DICTIONARY_V2[0]"
+                }, 
+                {
+                    "column": 9, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 10, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 11, 
+                    "encoding": "DIRECT_V2"
+                }
+            ], 
+            "tail": 162, 
+            "Streams": [
+                {
+                    "column": 0, 
+                    "start": 40479, 
+                    "section": "ROW_INDEX", 
+                    "length": 12
+                }, 
+                {
+                    "column": 1, 
+                    "start": 40491, 
+                    "section": "ROW_INDEX", 
+                    "length": 29
+                }, 
+                {
+                    "column": 1, 
+                    "start": 40520, 
+                    "section": "BLOOM_FILTER", 
+                    "length": 57
+                }, 
+                {
+                    "column": 2, 
+                    "start": 40577, 
+                    "section": "ROW_INDEX", 
+                    "length": 30
+                }, 
+                {
+                    "column": 2, 
+                    "start": 40607, 
+                    "section": "BLOOM_FILTER", 
+                    "length": 67
+                }, 
+                {
+                    "column": 3, 
+                    "start": 40674, 
+                    "section": "ROW_INDEX", 
+                    "length": 32
+                }, 
+                {
+                    "column": 3, 
+                    "start": 40706, 
+                    "section": "BLOOM_FILTER", 
+                    "length": 61
+                }, 
+                {
+                    "column": 4, 
+                    "start": 40767, 
+                    "section": "ROW_INDEX", 
+                    "length": 33
+                }, 
+                {
+                    "column": 4, 
+                    "start": 40800, 
+                    "section": "BLOOM_FILTER", 
+                    "length": 62
+                }, 
+                {
+                    "column": 5, 
+                    "start": 40862, 
+                    "section": "ROW_INDEX", 
+                    "length": 35
+                }, 
+                {
+                    "column": 5, 
+                    "start": 40897, 
+                    "section": "BLOOM_FILTER", 
+                    "length": 69
+                }, 
+                {
+                    "column": 6, 
+                    "start": 40966, 
+                    "section": "ROW_INDEX", 
+                    "length": 34
+                }, 
+                {
+                    "column": 6, 
+                    "start": 41000, 
+                    "section": "BLOOM_FILTER", 
+                    "length": 59
+                }, 
+                {
+                    "column": 7, 
+                    "start": 41059, 
+                    "section": "ROW_INDEX", 
+                    "length": 23
+                }, 
+                {
+                    "column": 7, 
+                    "start": 41082, 
+                    "section": "BLOOM_FILTER", 
+                    "length": 40
+                }, 
+                {
+                    "column": 8, 
+                    "start": 41122, 
+                    "section": "ROW_INDEX", 
+                    "length": 19
+                }, 
+                {
+                    "column": 8, 
+                    "start": 41141, 
+                    "section": "BLOOM_FILTER", 
+                    "length": 40
+                }, 
+                {
+                    "column": 9, 
+                    "start": 41181, 
+                    "section": "ROW_INDEX", 
+                    "length": 19
+                }, 
+                {
+                    "column": 9, 
+                    "start": 41200, 
+                    "section": "BLOOM_FILTER", 
+                    "length": 40
+                }, 
+                {
+                    "column": 10, 
+                    "start": 41240, 
+                    "section": "ROW_INDEX", 
+                    "length": 22
+                }, 
+                {
+                    "column": 11, 
+                    "start": 41262, 
+                    "section": "ROW_INDEX", 
+                    "length": 21
+                }, 
+                {
+                    "column": 11, 
+                    "start": 41283, 
+                    "section": "BLOOM_FILTER", 
+                    "length": 40
+                }, 
+                {
+                    "column": 1, 
+                    "start": 41323, 
+                    "section": "DATA", 
+                    "length": 12
+                }, 
+                {
+                    "column": 2, 
+                    "start": 41335, 
+                    "section": "DATA", 
+                    "length": 36
+                }, 
+                {
+                    "column": 3, 
+                    "start": 41371, 
+                    "section": "DATA", 
+                    "length": 37
+                }, 
+                {
+                    "column": 4, 
+                    "start": 41408, 
+                    "section": "DATA", 
+                    "length": 48
+                }, 
+                {
+                    "column": 5, 
+                    "start": 41456, 
+                    "section": "DATA", 
+                    "length": 47
+                }, 
+                {
+                    "column": 6, 
+                    "start": 41503, 
+                    "section": "DATA", 
+                    "length": 75
+                }, 
+                {
+                    "column": 7, 
+                    "start": 41578, 
+                    "section": "DATA", 
+                    "length": 8
+                }, 
+                {
+                    "column": 8, 
+                    "start": 41586, 
+                    "section": "PRESENT", 
+                    "length": 8
+                }, 
+                {
+                    "column": 8, 
+                    "start": 41594, 
+                    "section": "DATA", 
+                    "length": 0
+                }, 
+                {
+                    "column": 8, 
+                    "start": 41594, 
+                    "section": "LENGTH", 
+                    "length": 0
+                }, 
+                {
+                    "column": 8, 
+                    "start": 41594, 
+                    "section": "DICTIONARY_DATA", 
+                    "length": 0
+                }, 
+                {
+                    "column": 9, 
+                    "start": 41594, 
+                    "section": "PRESENT", 
+                    "length": 8
+                }, 
+                {
+                    "column": 9, 
+                    "start": 41602, 
+                    "section": "DATA", 
+                    "length": 0
+                }, 
+                {
+                    "column": 9, 
+                    "start": 41602, 
+                    "section": "SECONDARY", 
+                    "length": 0
+                }, 
+                {
+                    "column": 10, 
+                    "start": 41602, 
+                    "section": "PRESENT", 
+                    "length": 8
+                }, 
+                {
+                    "column": 10, 
+                    "start": 41610, 
+                    "section": "DATA", 
+                    "length": 0
+                }, 
+                {
+                    "column": 10, 
+                    "start": 41610, 
+                    "section": "SECONDARY", 
+                    "length": 0
+                }, 
+                {
+                    "column": 11, 
+                    "start": 41610, 
+                    "section": "PRESENT", 
+                    "length": 8
+                }, 
+                {
+                    "column": 11, 
+                    "start": 41618, 
+                    "section": "DATA", 
+                    "length": 0
+                }, 
+                {
+                    "column": 11, 
+                    "start": 41618, 
+                    "section": "LENGTH", 
+                    "length": 0
+                }
+            ], 
+            "stripe": 1, 
+            "offset": 40479, 
+            "data": 295
+        }
+    ], 
+    "version": "0.12 with HIVE-8732", 
+    "schema": "struct<_col0:byte,_col1:tinyint,_col2:int,_col3:bigint,_col4:float,_col5:double,_col6:boolean,_col7:string,_col8:timestamp,_col9:decimal,_col10:binary>"
+}

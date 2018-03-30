@@ -1,0 +1,741 @@
+{
+    "Stripe Statistics": [
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 0, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 0, 
+                    "sum": 0, 
+                    "has null": false
+                }, 
+                {
+                    "column": 2, 
+                    "count": 0, 
+                    "max": null, 
+                    "min": null, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 0
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 0, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 0, 
+                    "sum": 0, 
+                    "has null": false
+                }, 
+                {
+                    "column": 2, 
+                    "count": 0, 
+                    "max": null, 
+                    "min": null, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 1
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 0, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 0, 
+                    "sum": 0, 
+                    "has null": false
+                }, 
+                {
+                    "column": 2, 
+                    "count": 0, 
+                    "max": null, 
+                    "min": null, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 2
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 0, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 0, 
+                    "sum": 0, 
+                    "has null": false
+                }, 
+                {
+                    "column": 2, 
+                    "count": 0, 
+                    "max": null, 
+                    "min": null, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 3
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 0, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 0, 
+                    "sum": 0, 
+                    "has null": false
+                }, 
+                {
+                    "column": 2, 
+                    "count": 0, 
+                    "max": null, 
+                    "min": null, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 4
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 0, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 0, 
+                    "sum": 0, 
+                    "has null": false
+                }, 
+                {
+                    "column": 2, 
+                    "count": 0, 
+                    "max": null, 
+                    "min": null, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 5
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 0, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 0, 
+                    "sum": 0, 
+                    "has null": false
+                }, 
+                {
+                    "column": 2, 
+                    "count": 0, 
+                    "max": null, 
+                    "min": null, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 6
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 0, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 0, 
+                    "sum": 0, 
+                    "has null": false
+                }, 
+                {
+                    "column": 2, 
+                    "count": 0, 
+                    "max": null, 
+                    "min": null, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 7
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 0, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 0, 
+                    "sum": 0, 
+                    "has null": false
+                }, 
+                {
+                    "column": 2, 
+                    "count": 0, 
+                    "max": null, 
+                    "min": null, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 8
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 0, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 0, 
+                    "sum": 0, 
+                    "has null": false
+                }, 
+                {
+                    "column": 2, 
+                    "count": 0, 
+                    "max": null, 
+                    "min": null, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 9
+        }
+    ], 
+    "compression_size": 1000, 
+    "rows": 50000, 
+    "compression": "SNAPPY", 
+    "File Statistics": [
+        {
+            "column": 0, 
+            "count": 0, 
+            "has null": false
+        }, 
+        {
+            "column": 1, 
+            "count": 0, 
+            "sum": 0, 
+            "has null": false
+        }, 
+        {
+            "column": 2, 
+            "count": 0, 
+            "max": null, 
+            "min": null, 
+            "has null": false
+        }
+    ], 
+    "Stripes": [
+        {
+            "index": 0, 
+            "rows": 5000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DICTIONARY_V2[1000]"
+                }
+            ], 
+            "tail": 66, 
+            "Streams": [
+                {
+                    "column": 1, 
+                    "start": 3, 
+                    "section": "DATA", 
+                    "length": 5009
+                }, 
+                {
+                    "column": 2, 
+                    "start": 5012, 
+                    "section": "DATA", 
+                    "length": 2753
+                }, 
+                {
+                    "column": 2, 
+                    "start": 7765, 
+                    "section": "LENGTH", 
+                    "length": 798
+                }, 
+                {
+                    "column": 2, 
+                    "start": 8563, 
+                    "section": "DICTIONARY_DATA", 
+                    "length": 12815
+                }
+            ], 
+            "stripe": 0, 
+            "offset": 3, 
+            "data": 21375
+        }, 
+        {
+            "index": 0, 
+            "rows": 5000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DICTIONARY_V2[1000]"
+                }
+            ], 
+            "tail": 66, 
+            "Streams": [
+                {
+                    "column": 1, 
+                    "start": 21444, 
+                    "section": "DATA", 
+                    "length": 5013
+                }, 
+                {
+                    "column": 2, 
+                    "start": 26457, 
+                    "section": "DATA", 
+                    "length": 2753
+                }, 
+                {
+                    "column": 2, 
+                    "start": 29210, 
+                    "section": "LENGTH", 
+                    "length": 806
+                }, 
+                {
+                    "column": 2, 
+                    "start": 30016, 
+                    "section": "DICTIONARY_DATA", 
+                    "length": 12868
+                }
+            ], 
+            "stripe": 1, 
+            "offset": 21444, 
+            "data": 21440
+        }, 
+        {
+            "index": 0, 
+            "rows": 5000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DICTIONARY_V2[1000]"
+                }
+            ], 
+            "tail": 66, 
+            "Streams": [
+                {
+                    "column": 1, 
+                    "start": 42950, 
+                    "section": "DATA", 
+                    "length": 5008
+                }, 
+                {
+                    "column": 2, 
+                    "start": 47958, 
+                    "section": "DATA", 
+                    "length": 2753
+                }, 
+                {
+                    "column": 2, 
+                    "start": 50711, 
+                    "section": "LENGTH", 
+                    "length": 814
+                }, 
+                {
+                    "column": 2, 
+                    "start": 51525, 
+                    "section": "DICTIONARY_DATA", 
+                    "length": 12798
+                }
+            ], 
+            "stripe": 2, 
+            "offset": 42950, 
+            "data": 21373
+        }, 
+        {
+            "index": 0, 
+            "rows": 5000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DICTIONARY_V2[1000]"
+                }
+            ], 
+            "tail": 66, 
+            "Streams": [
+                {
+                    "column": 1, 
+                    "start": 64389, 
+                    "section": "DATA", 
+                    "length": 5010
+                }, 
+                {
+                    "column": 2, 
+                    "start": 69399, 
+                    "section": "DATA", 
+                    "length": 2753
+                }, 
+                {
+                    "column": 2, 
+                    "start": 72152, 
+                    "section": "LENGTH", 
+                    "length": 821
+                }, 
+                {
+                    "column": 2, 
+                    "start": 72973, 
+                    "section": "DICTIONARY_DATA", 
+                    "length": 12730
+                }
+            ], 
+            "stripe": 3, 
+            "offset": 64389, 
+            "data": 21314
+        }, 
+        {
+            "index": 0, 
+            "rows": 5000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DICTIONARY_V2[1000]"
+                }
+            ], 
+            "tail": 66, 
+            "Streams": [
+                {
+                    "column": 1, 
+                    "start": 85769, 
+                    "section": "DATA", 
+                    "length": 5011
+                }, 
+                {
+                    "column": 2, 
+                    "start": 90780, 
+                    "section": "DATA", 
+                    "length": 2753
+                }, 
+                {
+                    "column": 2, 
+                    "start": 93533, 
+                    "section": "LENGTH", 
+                    "length": 774
+                }, 
+                {
+                    "column": 2, 
+                    "start": 94307, 
+                    "section": "DICTIONARY_DATA", 
+                    "length": 12904
+                }
+            ], 
+            "stripe": 4, 
+            "offset": 85769, 
+            "data": 21442
+        }, 
+        {
+            "index": 0, 
+            "rows": 5000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DICTIONARY_V2[1000]"
+                }
+            ], 
+            "tail": 66, 
+            "Streams": [
+                {
+                    "column": 1, 
+                    "start": 107277, 
+                    "section": "DATA", 
+                    "length": 5012
+                }, 
+                {
+                    "column": 2, 
+                    "start": 112289, 
+                    "section": "DATA", 
+                    "length": 2753
+                }, 
+                {
+                    "column": 2, 
+                    "start": 115042, 
+                    "section": "LENGTH", 
+                    "length": 790
+                }, 
+                {
+                    "column": 2, 
+                    "start": 115832, 
+                    "section": "DICTIONARY_DATA", 
+                    "length": 12815
+                }
+            ], 
+            "stripe": 5, 
+            "offset": 107277, 
+            "data": 21370
+        }, 
+        {
+            "index": 0, 
+            "rows": 5000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DICTIONARY_V2[1000]"
+                }
+            ], 
+            "tail": 66, 
+            "Streams": [
+                {
+                    "column": 1, 
+                    "start": 128713, 
+                    "section": "DATA", 
+                    "length": 5010
+                }, 
+                {
+                    "column": 2, 
+                    "start": 133723, 
+                    "section": "DATA", 
+                    "length": 2753
+                }, 
+                {
+                    "column": 2, 
+                    "start": 136476, 
+                    "section": "LENGTH", 
+                    "length": 804
+                }, 
+                {
+                    "column": 2, 
+                    "start": 137280, 
+                    "section": "DICTIONARY_DATA", 
+                    "length": 12893
+                }
+            ], 
+            "stripe": 6, 
+            "offset": 128713, 
+            "data": 21460
+        }, 
+        {
+            "index": 0, 
+            "rows": 5000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DICTIONARY_V2[1000]"
+                }
+            ], 
+            "tail": 66, 
+            "Streams": [
+                {
+                    "column": 1, 
+                    "start": 150239, 
+                    "section": "DATA", 
+                    "length": 5012
+                }, 
+                {
+                    "column": 2, 
+                    "start": 155251, 
+                    "section": "DATA", 
+                    "length": 2753
+                }, 
+                {
+                    "column": 2, 
+                    "start": 158004, 
+                    "section": "LENGTH", 
+                    "length": 801
+                }, 
+                {
+                    "column": 2, 
+                    "start": 158805, 
+                    "section": "DICTIONARY_DATA", 
+                    "length": 12886
+                }
+            ], 
+            "stripe": 7, 
+            "offset": 150239, 
+            "data": 21452
+        }, 
+        {
+            "index": 0, 
+            "rows": 5000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DICTIONARY_V2[1000]"
+                }
+            ], 
+            "tail": 66, 
+            "Streams": [
+                {
+                    "column": 1, 
+                    "start": 171757, 
+                    "section": "DATA", 
+                    "length": 5013
+                }, 
+                {
+                    "column": 2, 
+                    "start": 176770, 
+                    "section": "DATA", 
+                    "length": 2753
+                }, 
+                {
+                    "column": 2, 
+                    "start": 179523, 
+                    "section": "LENGTH", 
+                    "length": 785
+                }, 
+                {
+                    "column": 2, 
+                    "start": 180308, 
+                    "section": "DICTIONARY_DATA", 
+                    "length": 12859
+                }
+            ], 
+            "stripe": 8, 
+            "offset": 171757, 
+            "data": 21410
+        }, 
+        {
+            "index": 0, 
+            "rows": 5000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DICTIONARY_V2[1000]"
+                }
+            ], 
+            "tail": 66, 
+            "Streams": [
+                {
+                    "column": 1, 
+                    "start": 193233, 
+                    "section": "DATA", 
+                    "length": 5009
+                }, 
+                {
+                    "column": 2, 
+                    "start": 198242, 
+                    "section": "DATA", 
+                    "length": 2753
+                }, 
+                {
+                    "column": 2, 
+                    "start": 200995, 
+                    "section": "LENGTH", 
+                    "length": 832
+                }, 
+                {
+                    "column": 2, 
+                    "start": 201827, 
+                    "section": "DICTIONARY_DATA", 
+                    "length": 12750
+                }
+            ], 
+            "stripe": 9, 
+            "offset": 193233, 
+            "data": 21344
+        }
+    ], 
+    "version": "0.12 with HIVE-8732", 
+    "schema": "struct<int1:int,string1:string>"
+}

@@ -1,0 +1,2326 @@
+{
+    "Stripe Statistics": [
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 15000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 15000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 2, 
+                    "count": 15000, 
+                    "max": 30309, 
+                    "min": 25195, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 0
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 5000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 5000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 2, 
+                    "count": 5000, 
+                    "max": 32135, 
+                    "min": 30674, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 1
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 10000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 10000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 2, 
+                    "count": 10000, 
+                    "max": 35787, 
+                    "min": 32500, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 2
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 10000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 10000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 2, 
+                    "count": 10000, 
+                    "max": 39440, 
+                    "min": 36153, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 3
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 5000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 5000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 2, 
+                    "count": 5000, 
+                    "max": 41266, 
+                    "min": 39805, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 4
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 10000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 10000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 2, 
+                    "count": 10000, 
+                    "max": 44919, 
+                    "min": 41631, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 5
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 5000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 5000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 2, 
+                    "count": 5000, 
+                    "max": 46745, 
+                    "min": 45284, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 6
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 10000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 10000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 2, 
+                    "count": 10000, 
+                    "max": 50396, 
+                    "min": 47110, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 7
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 5000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 5000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 2, 
+                    "count": 5000, 
+                    "max": 52223, 
+                    "min": 50762, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 8
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 10000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 10000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 2, 
+                    "count": 10000, 
+                    "max": 55875, 
+                    "min": 52588, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 9
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 5000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 5000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 2, 
+                    "count": 5000, 
+                    "max": 57701, 
+                    "min": 56240, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 10
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 10000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 10000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 2, 
+                    "count": 10000, 
+                    "max": 61354, 
+                    "min": 58067, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 11
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 5000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 5000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 2, 
+                    "count": 5000, 
+                    "max": 63180, 
+                    "min": 61719, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 12
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 10000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 10000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 2, 
+                    "count": 10000, 
+                    "max": 66833, 
+                    "min": 63545, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 13
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 5000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 5000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 2, 
+                    "count": 5000, 
+                    "max": 68659, 
+                    "min": 67198, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 14
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 10000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 10000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 2, 
+                    "count": 10000, 
+                    "max": 72311, 
+                    "min": 69024, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 15
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 5000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 5000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 2, 
+                    "count": 5000, 
+                    "max": 74138, 
+                    "min": 72677, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 16
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 10000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 10000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 2, 
+                    "count": 10000, 
+                    "max": 77790, 
+                    "min": 74503, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 17
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 10000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 10000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 2, 
+                    "count": 10000, 
+                    "max": 81443, 
+                    "min": 78155, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 18
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 5000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 5000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 2, 
+                    "count": 5000, 
+                    "max": 83269, 
+                    "min": 81808, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 19
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 10000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 10000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 2, 
+                    "count": 10000, 
+                    "max": 86920, 
+                    "min": 83634, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 20
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 5000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 5000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 2, 
+                    "count": 5000, 
+                    "max": 88747, 
+                    "min": 87286, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 21
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 10000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 10000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 2, 
+                    "count": 10000, 
+                    "max": 92399, 
+                    "min": 89112, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 22
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 5000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 5000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 2, 
+                    "count": 5000, 
+                    "max": 94225, 
+                    "min": 92764, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 23
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 5000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 5000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 2, 
+                    "count": 5000, 
+                    "max": 96052, 
+                    "min": 94591, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 24
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 5000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 5000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 2, 
+                    "count": 5000, 
+                    "max": 97878, 
+                    "min": 96417, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 25
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 10000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 10000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 2, 
+                    "count": 10000, 
+                    "max": 101530, 
+                    "min": 98243, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 26
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 2000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 2000, 
+                    "has null": false
+                }, 
+                {
+                    "column": 2, 
+                    "count": 2000, 
+                    "max": 102261, 
+                    "min": 101896, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 27
+        }
+    ], 
+    "compression_size": 10000, 
+    "rows": 212000, 
+    "compression": "ZLIB", 
+    "File Statistics": [
+        {
+            "column": 0, 
+            "count": 212000, 
+            "has null": false
+        }, 
+        {
+            "column": 1, 
+            "count": 212000, 
+            "has null": false
+        }, 
+        {
+            "column": 2, 
+            "count": 212000, 
+            "max": 102261, 
+            "min": 25195, 
+            "has null": false
+        }
+    ], 
+    "Stripes": [
+        {
+            "index": 153, 
+            "rows": 15000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DIRECT_V2"
+                }
+            ], 
+            "tail": 63, 
+            "Streams": [
+                {
+                    "column": 0, 
+                    "start": 3, 
+                    "section": "ROW_INDEX", 
+                    "length": 21
+                }, 
+                {
+                    "column": 1, 
+                    "start": 24, 
+                    "section": "ROW_INDEX", 
+                    "length": 78
+                }, 
+                {
+                    "column": 2, 
+                    "start": 102, 
+                    "section": "ROW_INDEX", 
+                    "length": 54
+                }, 
+                {
+                    "column": 1, 
+                    "start": 156, 
+                    "section": "DATA", 
+                    "length": 507
+                }, 
+                {
+                    "column": 1, 
+                    "start": 663, 
+                    "section": "SECONDARY", 
+                    "length": 5416
+                }, 
+                {
+                    "column": 2, 
+                    "start": 6079, 
+                    "section": "DATA", 
+                    "length": 271
+                }
+            ], 
+            "stripe": 0, 
+            "offset": 3, 
+            "data": 6194
+        }, 
+        {
+            "index": 76, 
+            "rows": 5000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DIRECT_V2"
+                }
+            ], 
+            "tail": 63, 
+            "Streams": [
+                {
+                    "column": 0, 
+                    "start": 6413, 
+                    "section": "ROW_INDEX", 
+                    "length": 12
+                }, 
+                {
+                    "column": 1, 
+                    "start": 6425, 
+                    "section": "ROW_INDEX", 
+                    "length": 37
+                }, 
+                {
+                    "column": 2, 
+                    "start": 6462, 
+                    "section": "ROW_INDEX", 
+                    "length": 27
+                }, 
+                {
+                    "column": 1, 
+                    "start": 6489, 
+                    "section": "DATA", 
+                    "length": 171
+                }, 
+                {
+                    "column": 1, 
+                    "start": 6660, 
+                    "section": "SECONDARY", 
+                    "length": 1803
+                }, 
+                {
+                    "column": 2, 
+                    "start": 8463, 
+                    "section": "DATA", 
+                    "length": 101
+                }
+            ], 
+            "stripe": 1, 
+            "offset": 6413, 
+            "data": 2075
+        }, 
+        {
+            "index": 76, 
+            "rows": 10000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DIRECT_V2"
+                }
+            ], 
+            "tail": 63, 
+            "Streams": [
+                {
+                    "column": 0, 
+                    "start": 8627, 
+                    "section": "ROW_INDEX", 
+                    "length": 12
+                }, 
+                {
+                    "column": 1, 
+                    "start": 8639, 
+                    "section": "ROW_INDEX", 
+                    "length": 37
+                }, 
+                {
+                    "column": 2, 
+                    "start": 8676, 
+                    "section": "ROW_INDEX", 
+                    "length": 27
+                }, 
+                {
+                    "column": 1, 
+                    "start": 8703, 
+                    "section": "DATA", 
+                    "length": 340
+                }, 
+                {
+                    "column": 1, 
+                    "start": 9043, 
+                    "section": "SECONDARY", 
+                    "length": 3608
+                }, 
+                {
+                    "column": 2, 
+                    "start": 12651, 
+                    "section": "DATA", 
+                    "length": 234
+                }
+            ], 
+            "stripe": 2, 
+            "offset": 8627, 
+            "data": 4182
+        }, 
+        {
+            "index": 77, 
+            "rows": 10000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DIRECT_V2"
+                }
+            ], 
+            "tail": 63, 
+            "Streams": [
+                {
+                    "column": 0, 
+                    "start": 12948, 
+                    "section": "ROW_INDEX", 
+                    "length": 12
+                }, 
+                {
+                    "column": 1, 
+                    "start": 12960, 
+                    "section": "ROW_INDEX", 
+                    "length": 38
+                }, 
+                {
+                    "column": 2, 
+                    "start": 12998, 
+                    "section": "ROW_INDEX", 
+                    "length": 27
+                }, 
+                {
+                    "column": 1, 
+                    "start": 13025, 
+                    "section": "DATA", 
+                    "length": 341
+                }, 
+                {
+                    "column": 1, 
+                    "start": 13366, 
+                    "section": "SECONDARY", 
+                    "length": 3608
+                }, 
+                {
+                    "column": 2, 
+                    "start": 16974, 
+                    "section": "DATA", 
+                    "length": 237
+                }
+            ], 
+            "stripe": 3, 
+            "offset": 12948, 
+            "data": 4186
+        }, 
+        {
+            "index": 76, 
+            "rows": 5000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DIRECT_V2"
+                }
+            ], 
+            "tail": 63, 
+            "Streams": [
+                {
+                    "column": 0, 
+                    "start": 17274, 
+                    "section": "ROW_INDEX", 
+                    "length": 12
+                }, 
+                {
+                    "column": 1, 
+                    "start": 17286, 
+                    "section": "ROW_INDEX", 
+                    "length": 37
+                }, 
+                {
+                    "column": 2, 
+                    "start": 17323, 
+                    "section": "ROW_INDEX", 
+                    "length": 27
+                }, 
+                {
+                    "column": 1, 
+                    "start": 17350, 
+                    "section": "DATA", 
+                    "length": 174
+                }, 
+                {
+                    "column": 1, 
+                    "start": 17524, 
+                    "section": "SECONDARY", 
+                    "length": 1803
+                }, 
+                {
+                    "column": 2, 
+                    "start": 19327, 
+                    "section": "DATA", 
+                    "length": 113
+                }
+            ], 
+            "stripe": 4, 
+            "offset": 17274, 
+            "data": 2090
+        }, 
+        {
+            "index": 77, 
+            "rows": 10000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DIRECT_V2"
+                }
+            ], 
+            "tail": 63, 
+            "Streams": [
+                {
+                    "column": 0, 
+                    "start": 19503, 
+                    "section": "ROW_INDEX", 
+                    "length": 12
+                }, 
+                {
+                    "column": 1, 
+                    "start": 19515, 
+                    "section": "ROW_INDEX", 
+                    "length": 38
+                }, 
+                {
+                    "column": 2, 
+                    "start": 19553, 
+                    "section": "ROW_INDEX", 
+                    "length": 27
+                }, 
+                {
+                    "column": 1, 
+                    "start": 19580, 
+                    "section": "DATA", 
+                    "length": 416
+                }, 
+                {
+                    "column": 1, 
+                    "start": 19996, 
+                    "section": "SECONDARY", 
+                    "length": 3608
+                }, 
+                {
+                    "column": 2, 
+                    "start": 23604, 
+                    "section": "DATA", 
+                    "length": 237
+                }
+            ], 
+            "stripe": 5, 
+            "offset": 19503, 
+            "data": 4261
+        }, 
+        {
+            "index": 76, 
+            "rows": 5000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DIRECT_V2"
+                }
+            ], 
+            "tail": 63, 
+            "Streams": [
+                {
+                    "column": 0, 
+                    "start": 23904, 
+                    "section": "ROW_INDEX", 
+                    "length": 12
+                }, 
+                {
+                    "column": 1, 
+                    "start": 23916, 
+                    "section": "ROW_INDEX", 
+                    "length": 37
+                }, 
+                {
+                    "column": 2, 
+                    "start": 23953, 
+                    "section": "ROW_INDEX", 
+                    "length": 27
+                }, 
+                {
+                    "column": 1, 
+                    "start": 23980, 
+                    "section": "DATA", 
+                    "length": 210
+                }, 
+                {
+                    "column": 1, 
+                    "start": 24190, 
+                    "section": "SECONDARY", 
+                    "length": 1803
+                }, 
+                {
+                    "column": 2, 
+                    "start": 25993, 
+                    "section": "DATA", 
+                    "length": 116
+                }
+            ], 
+            "stripe": 6, 
+            "offset": 23904, 
+            "data": 2129
+        }, 
+        {
+            "index": 77, 
+            "rows": 10000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DIRECT_V2"
+                }
+            ], 
+            "tail": 63, 
+            "Streams": [
+                {
+                    "column": 0, 
+                    "start": 26172, 
+                    "section": "ROW_INDEX", 
+                    "length": 12
+                }, 
+                {
+                    "column": 1, 
+                    "start": 26184, 
+                    "section": "ROW_INDEX", 
+                    "length": 38
+                }, 
+                {
+                    "column": 2, 
+                    "start": 26222, 
+                    "section": "ROW_INDEX", 
+                    "length": 27
+                }, 
+                {
+                    "column": 1, 
+                    "start": 26249, 
+                    "section": "DATA", 
+                    "length": 419
+                }, 
+                {
+                    "column": 1, 
+                    "start": 26668, 
+                    "section": "SECONDARY", 
+                    "length": 3608
+                }, 
+                {
+                    "column": 2, 
+                    "start": 30276, 
+                    "section": "DATA", 
+                    "length": 230
+                }
+            ], 
+            "stripe": 7, 
+            "offset": 26172, 
+            "data": 4257
+        }, 
+        {
+            "index": 76, 
+            "rows": 5000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DIRECT_V2"
+                }
+            ], 
+            "tail": 63, 
+            "Streams": [
+                {
+                    "column": 0, 
+                    "start": 30569, 
+                    "section": "ROW_INDEX", 
+                    "length": 12
+                }, 
+                {
+                    "column": 1, 
+                    "start": 30581, 
+                    "section": "ROW_INDEX", 
+                    "length": 37
+                }, 
+                {
+                    "column": 2, 
+                    "start": 30618, 
+                    "section": "ROW_INDEX", 
+                    "length": 27
+                }, 
+                {
+                    "column": 1, 
+                    "start": 30645, 
+                    "section": "DATA", 
+                    "length": 213
+                }, 
+                {
+                    "column": 1, 
+                    "start": 30858, 
+                    "section": "SECONDARY", 
+                    "length": 1803
+                }, 
+                {
+                    "column": 2, 
+                    "start": 32661, 
+                    "section": "DATA", 
+                    "length": 114
+                }
+            ], 
+            "stripe": 8, 
+            "offset": 30569, 
+            "data": 2130
+        }, 
+        {
+            "index": 77, 
+            "rows": 10000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DIRECT_V2"
+                }
+            ], 
+            "tail": 63, 
+            "Streams": [
+                {
+                    "column": 0, 
+                    "start": 32838, 
+                    "section": "ROW_INDEX", 
+                    "length": 12
+                }, 
+                {
+                    "column": 1, 
+                    "start": 32850, 
+                    "section": "ROW_INDEX", 
+                    "length": 38
+                }, 
+                {
+                    "column": 2, 
+                    "start": 32888, 
+                    "section": "ROW_INDEX", 
+                    "length": 27
+                }, 
+                {
+                    "column": 1, 
+                    "start": 32915, 
+                    "section": "DATA", 
+                    "length": 411
+                }, 
+                {
+                    "column": 1, 
+                    "start": 33326, 
+                    "section": "SECONDARY", 
+                    "length": 3608
+                }, 
+                {
+                    "column": 2, 
+                    "start": 36934, 
+                    "section": "DATA", 
+                    "length": 231
+                }
+            ], 
+            "stripe": 9, 
+            "offset": 32838, 
+            "data": 4250
+        }, 
+        {
+            "index": 76, 
+            "rows": 5000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DIRECT_V2"
+                }
+            ], 
+            "tail": 63, 
+            "Streams": [
+                {
+                    "column": 0, 
+                    "start": 37228, 
+                    "section": "ROW_INDEX", 
+                    "length": 12
+                }, 
+                {
+                    "column": 1, 
+                    "start": 37240, 
+                    "section": "ROW_INDEX", 
+                    "length": 37
+                }, 
+                {
+                    "column": 2, 
+                    "start": 37277, 
+                    "section": "ROW_INDEX", 
+                    "length": 27
+                }, 
+                {
+                    "column": 1, 
+                    "start": 37304, 
+                    "section": "DATA", 
+                    "length": 211
+                }, 
+                {
+                    "column": 1, 
+                    "start": 37515, 
+                    "section": "SECONDARY", 
+                    "length": 1803
+                }, 
+                {
+                    "column": 2, 
+                    "start": 39318, 
+                    "section": "DATA", 
+                    "length": 115
+                }
+            ], 
+            "stripe": 10, 
+            "offset": 37228, 
+            "data": 2129
+        }, 
+        {
+            "index": 77, 
+            "rows": 10000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DIRECT_V2"
+                }
+            ], 
+            "tail": 63, 
+            "Streams": [
+                {
+                    "column": 0, 
+                    "start": 39496, 
+                    "section": "ROW_INDEX", 
+                    "length": 12
+                }, 
+                {
+                    "column": 1, 
+                    "start": 39508, 
+                    "section": "ROW_INDEX", 
+                    "length": 38
+                }, 
+                {
+                    "column": 2, 
+                    "start": 39546, 
+                    "section": "ROW_INDEX", 
+                    "length": 27
+                }, 
+                {
+                    "column": 1, 
+                    "start": 39573, 
+                    "section": "DATA", 
+                    "length": 414
+                }, 
+                {
+                    "column": 1, 
+                    "start": 39987, 
+                    "section": "SECONDARY", 
+                    "length": 3608
+                }, 
+                {
+                    "column": 2, 
+                    "start": 43595, 
+                    "section": "DATA", 
+                    "length": 237
+                }
+            ], 
+            "stripe": 11, 
+            "offset": 39496, 
+            "data": 4259
+        }, 
+        {
+            "index": 76, 
+            "rows": 5000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DIRECT_V2"
+                }
+            ], 
+            "tail": 63, 
+            "Streams": [
+                {
+                    "column": 0, 
+                    "start": 43895, 
+                    "section": "ROW_INDEX", 
+                    "length": 12
+                }, 
+                {
+                    "column": 1, 
+                    "start": 43907, 
+                    "section": "ROW_INDEX", 
+                    "length": 37
+                }, 
+                {
+                    "column": 2, 
+                    "start": 43944, 
+                    "section": "ROW_INDEX", 
+                    "length": 27
+                }, 
+                {
+                    "column": 1, 
+                    "start": 43971, 
+                    "section": "DATA", 
+                    "length": 211
+                }, 
+                {
+                    "column": 1, 
+                    "start": 44182, 
+                    "section": "SECONDARY", 
+                    "length": 1803
+                }, 
+                {
+                    "column": 2, 
+                    "start": 45985, 
+                    "section": "DATA", 
+                    "length": 113
+                }
+            ], 
+            "stripe": 12, 
+            "offset": 43895, 
+            "data": 2127
+        }, 
+        {
+            "index": 77, 
+            "rows": 10000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DIRECT_V2"
+                }
+            ], 
+            "tail": 63, 
+            "Streams": [
+                {
+                    "column": 0, 
+                    "start": 46161, 
+                    "section": "ROW_INDEX", 
+                    "length": 12
+                }, 
+                {
+                    "column": 1, 
+                    "start": 46173, 
+                    "section": "ROW_INDEX", 
+                    "length": 38
+                }, 
+                {
+                    "column": 2, 
+                    "start": 46211, 
+                    "section": "ROW_INDEX", 
+                    "length": 27
+                }, 
+                {
+                    "column": 1, 
+                    "start": 46238, 
+                    "section": "DATA", 
+                    "length": 412
+                }, 
+                {
+                    "column": 1, 
+                    "start": 46650, 
+                    "section": "SECONDARY", 
+                    "length": 3608
+                }, 
+                {
+                    "column": 2, 
+                    "start": 50258, 
+                    "section": "DATA", 
+                    "length": 235
+                }
+            ], 
+            "stripe": 13, 
+            "offset": 46161, 
+            "data": 4255
+        }, 
+        {
+            "index": 76, 
+            "rows": 5000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DIRECT_V2"
+                }
+            ], 
+            "tail": 63, 
+            "Streams": [
+                {
+                    "column": 0, 
+                    "start": 50556, 
+                    "section": "ROW_INDEX", 
+                    "length": 12
+                }, 
+                {
+                    "column": 1, 
+                    "start": 50568, 
+                    "section": "ROW_INDEX", 
+                    "length": 37
+                }, 
+                {
+                    "column": 2, 
+                    "start": 50605, 
+                    "section": "ROW_INDEX", 
+                    "length": 27
+                }, 
+                {
+                    "column": 1, 
+                    "start": 50632, 
+                    "section": "DATA", 
+                    "length": 211
+                }, 
+                {
+                    "column": 1, 
+                    "start": 50843, 
+                    "section": "SECONDARY", 
+                    "length": 1803
+                }, 
+                {
+                    "column": 2, 
+                    "start": 52646, 
+                    "section": "DATA", 
+                    "length": 114
+                }
+            ], 
+            "stripe": 14, 
+            "offset": 50556, 
+            "data": 2128
+        }, 
+        {
+            "index": 77, 
+            "rows": 10000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DIRECT_V2"
+                }
+            ], 
+            "tail": 63, 
+            "Streams": [
+                {
+                    "column": 0, 
+                    "start": 52823, 
+                    "section": "ROW_INDEX", 
+                    "length": 12
+                }, 
+                {
+                    "column": 1, 
+                    "start": 52835, 
+                    "section": "ROW_INDEX", 
+                    "length": 38
+                }, 
+                {
+                    "column": 2, 
+                    "start": 52873, 
+                    "section": "ROW_INDEX", 
+                    "length": 27
+                }, 
+                {
+                    "column": 1, 
+                    "start": 52900, 
+                    "section": "DATA", 
+                    "length": 414
+                }, 
+                {
+                    "column": 1, 
+                    "start": 53314, 
+                    "section": "SECONDARY", 
+                    "length": 3608
+                }, 
+                {
+                    "column": 2, 
+                    "start": 56922, 
+                    "section": "DATA", 
+                    "length": 239
+                }
+            ], 
+            "stripe": 15, 
+            "offset": 52823, 
+            "data": 4261
+        }, 
+        {
+            "index": 76, 
+            "rows": 5000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DIRECT_V2"
+                }
+            ], 
+            "tail": 63, 
+            "Streams": [
+                {
+                    "column": 0, 
+                    "start": 57224, 
+                    "section": "ROW_INDEX", 
+                    "length": 12
+                }, 
+                {
+                    "column": 1, 
+                    "start": 57236, 
+                    "section": "ROW_INDEX", 
+                    "length": 37
+                }, 
+                {
+                    "column": 2, 
+                    "start": 57273, 
+                    "section": "ROW_INDEX", 
+                    "length": 27
+                }, 
+                {
+                    "column": 1, 
+                    "start": 57300, 
+                    "section": "DATA", 
+                    "length": 211
+                }, 
+                {
+                    "column": 1, 
+                    "start": 57511, 
+                    "section": "SECONDARY", 
+                    "length": 1803
+                }, 
+                {
+                    "column": 2, 
+                    "start": 59314, 
+                    "section": "DATA", 
+                    "length": 119
+                }
+            ], 
+            "stripe": 16, 
+            "offset": 57224, 
+            "data": 2133
+        }, 
+        {
+            "index": 76, 
+            "rows": 10000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DIRECT_V2"
+                }
+            ], 
+            "tail": 63, 
+            "Streams": [
+                {
+                    "column": 0, 
+                    "start": 59496, 
+                    "section": "ROW_INDEX", 
+                    "length": 12
+                }, 
+                {
+                    "column": 1, 
+                    "start": 59508, 
+                    "section": "ROW_INDEX", 
+                    "length": 37
+                }, 
+                {
+                    "column": 2, 
+                    "start": 59545, 
+                    "section": "ROW_INDEX", 
+                    "length": 27
+                }, 
+                {
+                    "column": 1, 
+                    "start": 59572, 
+                    "section": "DATA", 
+                    "length": 414
+                }, 
+                {
+                    "column": 1, 
+                    "start": 59986, 
+                    "section": "SECONDARY", 
+                    "length": 3608
+                }, 
+                {
+                    "column": 2, 
+                    "start": 63594, 
+                    "section": "DATA", 
+                    "length": 235
+                }
+            ], 
+            "stripe": 17, 
+            "offset": 59496, 
+            "data": 4257
+        }, 
+        {
+            "index": 77, 
+            "rows": 10000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DIRECT_V2"
+                }
+            ], 
+            "tail": 63, 
+            "Streams": [
+                {
+                    "column": 0, 
+                    "start": 63892, 
+                    "section": "ROW_INDEX", 
+                    "length": 12
+                }, 
+                {
+                    "column": 1, 
+                    "start": 63904, 
+                    "section": "ROW_INDEX", 
+                    "length": 38
+                }, 
+                {
+                    "column": 2, 
+                    "start": 63942, 
+                    "section": "ROW_INDEX", 
+                    "length": 27
+                }, 
+                {
+                    "column": 1, 
+                    "start": 63969, 
+                    "section": "DATA", 
+                    "length": 416
+                }, 
+                {
+                    "column": 1, 
+                    "start": 64385, 
+                    "section": "SECONDARY", 
+                    "length": 3608
+                }, 
+                {
+                    "column": 2, 
+                    "start": 67993, 
+                    "section": "DATA", 
+                    "length": 235
+                }
+            ], 
+            "stripe": 18, 
+            "offset": 63892, 
+            "data": 4259
+        }, 
+        {
+            "index": 76, 
+            "rows": 5000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DIRECT_V2"
+                }
+            ], 
+            "tail": 63, 
+            "Streams": [
+                {
+                    "column": 0, 
+                    "start": 68291, 
+                    "section": "ROW_INDEX", 
+                    "length": 12
+                }, 
+                {
+                    "column": 1, 
+                    "start": 68303, 
+                    "section": "ROW_INDEX", 
+                    "length": 37
+                }, 
+                {
+                    "column": 2, 
+                    "start": 68340, 
+                    "section": "ROW_INDEX", 
+                    "length": 27
+                }, 
+                {
+                    "column": 1, 
+                    "start": 68367, 
+                    "section": "DATA", 
+                    "length": 210
+                }, 
+                {
+                    "column": 1, 
+                    "start": 68577, 
+                    "section": "SECONDARY", 
+                    "length": 1803
+                }, 
+                {
+                    "column": 2, 
+                    "start": 70380, 
+                    "section": "DATA", 
+                    "length": 113
+                }
+            ], 
+            "stripe": 19, 
+            "offset": 68291, 
+            "data": 2126
+        }, 
+        {
+            "index": 77, 
+            "rows": 10000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DIRECT_V2"
+                }
+            ], 
+            "tail": 63, 
+            "Streams": [
+                {
+                    "column": 0, 
+                    "start": 70556, 
+                    "section": "ROW_INDEX", 
+                    "length": 12
+                }, 
+                {
+                    "column": 1, 
+                    "start": 70568, 
+                    "section": "ROW_INDEX", 
+                    "length": 38
+                }, 
+                {
+                    "column": 2, 
+                    "start": 70606, 
+                    "section": "ROW_INDEX", 
+                    "length": 27
+                }, 
+                {
+                    "column": 1, 
+                    "start": 70633, 
+                    "section": "DATA", 
+                    "length": 413
+                }, 
+                {
+                    "column": 1, 
+                    "start": 71046, 
+                    "section": "SECONDARY", 
+                    "length": 3608
+                }, 
+                {
+                    "column": 2, 
+                    "start": 74654, 
+                    "section": "DATA", 
+                    "length": 237
+                }
+            ], 
+            "stripe": 20, 
+            "offset": 70556, 
+            "data": 4258
+        }, 
+        {
+            "index": 76, 
+            "rows": 5000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DIRECT_V2"
+                }
+            ], 
+            "tail": 63, 
+            "Streams": [
+                {
+                    "column": 0, 
+                    "start": 74954, 
+                    "section": "ROW_INDEX", 
+                    "length": 12
+                }, 
+                {
+                    "column": 1, 
+                    "start": 74966, 
+                    "section": "ROW_INDEX", 
+                    "length": 37
+                }, 
+                {
+                    "column": 2, 
+                    "start": 75003, 
+                    "section": "ROW_INDEX", 
+                    "length": 27
+                }, 
+                {
+                    "column": 1, 
+                    "start": 75030, 
+                    "section": "DATA", 
+                    "length": 206
+                }, 
+                {
+                    "column": 1, 
+                    "start": 75236, 
+                    "section": "SECONDARY", 
+                    "length": 1803
+                }, 
+                {
+                    "column": 2, 
+                    "start": 77039, 
+                    "section": "DATA", 
+                    "length": 115
+                }
+            ], 
+            "stripe": 21, 
+            "offset": 74954, 
+            "data": 2124
+        }, 
+        {
+            "index": 77, 
+            "rows": 10000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DIRECT_V2"
+                }
+            ], 
+            "tail": 63, 
+            "Streams": [
+                {
+                    "column": 0, 
+                    "start": 77217, 
+                    "section": "ROW_INDEX", 
+                    "length": 12
+                }, 
+                {
+                    "column": 1, 
+                    "start": 77229, 
+                    "section": "ROW_INDEX", 
+                    "length": 38
+                }, 
+                {
+                    "column": 2, 
+                    "start": 77267, 
+                    "section": "ROW_INDEX", 
+                    "length": 27
+                }, 
+                {
+                    "column": 1, 
+                    "start": 77294, 
+                    "section": "DATA", 
+                    "length": 417
+                }, 
+                {
+                    "column": 1, 
+                    "start": 77711, 
+                    "section": "SECONDARY", 
+                    "length": 3608
+                }, 
+                {
+                    "column": 2, 
+                    "start": 81319, 
+                    "section": "DATA", 
+                    "length": 238
+                }
+            ], 
+            "stripe": 22, 
+            "offset": 77217, 
+            "data": 4263
+        }, 
+        {
+            "index": 77, 
+            "rows": 5000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DIRECT_V2"
+                }
+            ], 
+            "tail": 63, 
+            "Streams": [
+                {
+                    "column": 0, 
+                    "start": 81620, 
+                    "section": "ROW_INDEX", 
+                    "length": 12
+                }, 
+                {
+                    "column": 1, 
+                    "start": 81632, 
+                    "section": "ROW_INDEX", 
+                    "length": 38
+                }, 
+                {
+                    "column": 2, 
+                    "start": 81670, 
+                    "section": "ROW_INDEX", 
+                    "length": 27
+                }, 
+                {
+                    "column": 1, 
+                    "start": 81697, 
+                    "section": "DATA", 
+                    "length": 207
+                }, 
+                {
+                    "column": 1, 
+                    "start": 81904, 
+                    "section": "SECONDARY", 
+                    "length": 1803
+                }, 
+                {
+                    "column": 2, 
+                    "start": 83707, 
+                    "section": "DATA", 
+                    "length": 116
+                }
+            ], 
+            "stripe": 23, 
+            "offset": 81620, 
+            "data": 2126
+        }, 
+        {
+            "index": 77, 
+            "rows": 5000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DIRECT_V2"
+                }
+            ], 
+            "tail": 63, 
+            "Streams": [
+                {
+                    "column": 0, 
+                    "start": 83886, 
+                    "section": "ROW_INDEX", 
+                    "length": 12
+                }, 
+                {
+                    "column": 1, 
+                    "start": 83898, 
+                    "section": "ROW_INDEX", 
+                    "length": 38
+                }, 
+                {
+                    "column": 2, 
+                    "start": 83936, 
+                    "section": "ROW_INDEX", 
+                    "length": 27
+                }, 
+                {
+                    "column": 1, 
+                    "start": 83963, 
+                    "section": "DATA", 
+                    "length": 213
+                }, 
+                {
+                    "column": 1, 
+                    "start": 84176, 
+                    "section": "SECONDARY", 
+                    "length": 1803
+                }, 
+                {
+                    "column": 2, 
+                    "start": 85979, 
+                    "section": "DATA", 
+                    "length": 111
+                }
+            ], 
+            "stripe": 24, 
+            "offset": 83886, 
+            "data": 2127
+        }, 
+        {
+            "index": 76, 
+            "rows": 5000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DIRECT_V2"
+                }
+            ], 
+            "tail": 63, 
+            "Streams": [
+                {
+                    "column": 0, 
+                    "start": 86153, 
+                    "section": "ROW_INDEX", 
+                    "length": 12
+                }, 
+                {
+                    "column": 1, 
+                    "start": 86165, 
+                    "section": "ROW_INDEX", 
+                    "length": 37
+                }, 
+                {
+                    "column": 2, 
+                    "start": 86202, 
+                    "section": "ROW_INDEX", 
+                    "length": 27
+                }, 
+                {
+                    "column": 1, 
+                    "start": 86229, 
+                    "section": "DATA", 
+                    "length": 211
+                }, 
+                {
+                    "column": 1, 
+                    "start": 86440, 
+                    "section": "SECONDARY", 
+                    "length": 1803
+                }, 
+                {
+                    "column": 2, 
+                    "start": 88243, 
+                    "section": "DATA", 
+                    "length": 112
+                }
+            ], 
+            "stripe": 25, 
+            "offset": 86153, 
+            "data": 2126
+        }, 
+        {
+            "index": 77, 
+            "rows": 10000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DIRECT_V2"
+                }
+            ], 
+            "tail": 63, 
+            "Streams": [
+                {
+                    "column": 0, 
+                    "start": 88418, 
+                    "section": "ROW_INDEX", 
+                    "length": 12
+                }, 
+                {
+                    "column": 1, 
+                    "start": 88430, 
+                    "section": "ROW_INDEX", 
+                    "length": 38
+                }, 
+                {
+                    "column": 2, 
+                    "start": 88468, 
+                    "section": "ROW_INDEX", 
+                    "length": 27
+                }, 
+                {
+                    "column": 1, 
+                    "start": 88495, 
+                    "section": "DATA", 
+                    "length": 414
+                }, 
+                {
+                    "column": 1, 
+                    "start": 88909, 
+                    "section": "SECONDARY", 
+                    "length": 3608
+                }, 
+                {
+                    "column": 2, 
+                    "start": 92517, 
+                    "section": "DATA", 
+                    "length": 237
+                }
+            ], 
+            "stripe": 26, 
+            "offset": 88418, 
+            "data": 4259
+        }, 
+        {
+            "index": 76, 
+            "rows": 2000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DIRECT_V2"
+                }
+            ], 
+            "tail": 61, 
+            "Streams": [
+                {
+                    "column": 0, 
+                    "start": 92817, 
+                    "section": "ROW_INDEX", 
+                    "length": 12
+                }, 
+                {
+                    "column": 1, 
+                    "start": 92829, 
+                    "section": "ROW_INDEX", 
+                    "length": 37
+                }, 
+                {
+                    "column": 2, 
+                    "start": 92866, 
+                    "section": "ROW_INDEX", 
+                    "length": 27
+                }, 
+                {
+                    "column": 1, 
+                    "start": 92893, 
+                    "section": "DATA", 
+                    "length": 89
+                }, 
+                {
+                    "column": 1, 
+                    "start": 92982, 
+                    "section": "SECONDARY", 
+                    "length": 1661
+                }, 
+                {
+                    "column": 2, 
+                    "start": 94643, 
+                    "section": "DATA", 
+                    "length": 58
+                }
+            ], 
+            "stripe": 27, 
+            "offset": 92817, 
+            "data": 1808
+        }
+    ], 
+    "version": "0.12 with HIVE-8732", 
+    "schema": "struct<time:timestamp,date:date>"
+}

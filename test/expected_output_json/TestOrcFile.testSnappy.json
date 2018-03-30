@@ -1,0 +1,206 @@
+{
+    "Stripe Statistics": [
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 5000, 
+                    "has null": false
+                }, 
+                {
+                    "count": 5000, 
+                    "min": -2147379059, 
+                    "column": 1, 
+                    "max": 2147400831, 
+                    "sum": 516868241, 
+                    "has null": false
+                }, 
+                {
+                    "count": 5000, 
+                    "min": "1001ed12", 
+                    "column": 2, 
+                    "max": "fffee5c6", 
+                    "sum": 39683, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 0
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 5000, 
+                    "has null": false
+                }, 
+                {
+                    "count": 5000, 
+                    "min": -2146471839, 
+                    "column": 1, 
+                    "max": 2145449206, 
+                    "sum": -778212148, 
+                    "has null": false
+                }, 
+                {
+                    "count": 5000, 
+                    "min": "100105e0", 
+                    "column": 2, 
+                    "max": "ffef7dcd", 
+                    "sum": 39656, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 1
+        }
+    ], 
+    "compression_size": 100, 
+    "rows": 10000, 
+    "compression": "SNAPPY", 
+    "File Statistics": [
+        {
+            "column": 0, 
+            "count": 10000, 
+            "has null": false
+        }, 
+        {
+            "count": 10000, 
+            "min": -2147379059, 
+            "column": 1, 
+            "max": 2147400831, 
+            "sum": -261343907, 
+            "has null": false
+        }, 
+        {
+            "count": 10000, 
+            "min": "100105e0", 
+            "column": 2, 
+            "max": "fffee5c6", 
+            "sum": 79339, 
+            "has null": false
+        }
+    ], 
+    "Stripes": [
+        {
+            "index": 95, 
+            "rows": 5000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DIRECT_V2"
+                }
+            ], 
+            "tail": 75, 
+            "Streams": [
+                {
+                    "column": 0, 
+                    "start": 3, 
+                    "section": "ROW_INDEX", 
+                    "length": 12
+                }, 
+                {
+                    "column": 1, 
+                    "start": 15, 
+                    "section": "ROW_INDEX", 
+                    "length": 38
+                }, 
+                {
+                    "column": 2, 
+                    "start": 53, 
+                    "section": "ROW_INDEX", 
+                    "length": 45
+                }, 
+                {
+                    "column": 1, 
+                    "start": 98, 
+                    "section": "DATA", 
+                    "length": 20623
+                }, 
+                {
+                    "column": 2, 
+                    "start": 20721, 
+                    "section": "DATA", 
+                    "length": 40874
+                }, 
+                {
+                    "column": 2, 
+                    "start": 61595, 
+                    "section": "LENGTH", 
+                    "length": 1316
+                }
+            ], 
+            "stripe": 0, 
+            "offset": 3, 
+            "data": 62813
+        }, 
+        {
+            "index": 95, 
+            "rows": 5000, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DIRECT_V2"
+                }
+            ], 
+            "tail": 75, 
+            "Streams": [
+                {
+                    "column": 0, 
+                    "start": 62986, 
+                    "section": "ROW_INDEX", 
+                    "length": 12
+                }, 
+                {
+                    "column": 1, 
+                    "start": 62998, 
+                    "section": "ROW_INDEX", 
+                    "length": 38
+                }, 
+                {
+                    "column": 2, 
+                    "start": 63036, 
+                    "section": "ROW_INDEX", 
+                    "length": 45
+                }, 
+                {
+                    "column": 1, 
+                    "start": 63081, 
+                    "section": "DATA", 
+                    "length": 20623
+                }, 
+                {
+                    "column": 2, 
+                    "start": 83704, 
+                    "section": "DATA", 
+                    "length": 40847
+                }, 
+                {
+                    "column": 2, 
+                    "start": 124551, 
+                    "section": "LENGTH", 
+                    "length": 1435
+                }
+            ], 
+            "stripe": 1, 
+            "offset": 62986, 
+            "data": 62905
+        }
+    ], 
+    "version": "0.12 with HIVE-8732", 
+    "schema": "struct<int1:int,string1:string>"
+}

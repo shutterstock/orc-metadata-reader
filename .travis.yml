@@ -1,0 +1,22 @@
+sudo: false
+language: python
+
+python:
+  - "2.7"
+
+addons:
+  apt:
+    packages:
+    - python-flake8
+    - libsnappy-dev
+    - zlib1g-dev
+    - liblz4-dev
+
+install:
+  - python setup.py install
+
+script:
+  - python test/runner.py
+  - flake8 orc_metadata test --ignore=F401 --max-line-length=80
+
+dist: trusty

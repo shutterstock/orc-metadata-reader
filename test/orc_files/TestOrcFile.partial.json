@@ -1,0 +1,161 @@
+{
+    "Stripe Statistics": [
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 5000, 
+                    "has null": false
+                }, 
+                {
+                    "count": 5000, 
+                    "min": -2145365268, 
+                    "column": 1, 
+                    "max": 2147025027, 
+                    "sum": 223347218, 
+                    "has null": false
+                }, 
+                {
+                    "count": 5000, 
+                    "min": "1005350489418be2", 
+                    "column": 2, 
+                    "max": "fffbb8718c92b09f", 
+                    "sum": 79644, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 0
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 5000, 
+                    "has null": false
+                }, 
+                {
+                    "count": 5000, 
+                    "min": -2147115959, 
+                    "column": 1, 
+                    "max": 2147257982, 
+                    "sum": 1230705385, 
+                    "has null": false
+                }, 
+                {
+                    "count": 5000, 
+                    "min": "100119c272d7db89", 
+                    "column": 2, 
+                    "max": "fff0ae41d41e6afc", 
+                    "sum": 79640, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 1
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 5000, 
+                    "has null": false
+                }, 
+                {
+                    "count": 5000, 
+                    "min": -2145932387, 
+                    "column": 1, 
+                    "max": 2145877119, 
+                    "sum": 1344714112, 
+                    "has null": false
+                }, 
+                {
+                    "count": 5000, 
+                    "min": "10130af874ae036c", 
+                    "column": 2, 
+                    "max": "fffe9f6f23b287f3", 
+                    "sum": 79645, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 2
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 5000, 
+                    "has null": false
+                }, 
+                {
+                    "count": 5000, 
+                    "min": -2147439072, 
+                    "column": 1, 
+                    "max": 2147074354, 
+                    "sum": 1602141378, 
+                    "has null": false
+                }, 
+                {
+                    "count": 5000, 
+                    "min": "102547d48ed06518", 
+                    "column": 2, 
+                    "max": "fffa47c57dc7b69a", 
+                    "sum": 79689, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 3
+        }, 
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 1000, 
+                    "has null": false
+                }, 
+                {
+                    "count": 1000, 
+                    "min": -2141222223, 
+                    "column": 1, 
+                    "max": 2145816096, 
+                    "sum": 2088745419, 
+                    "has null": false
+                }, 
+                {
+                    "count": 1000, 
+                    "min": "1059d81c9025a217", 
+                    "column": 2, 
+                    "max": "ffc17f0e35e1a6c0", 
+                    "sum": 15941, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 4
+        }
+    ], 
+    "compression_size": 0, 
+    "rows": 21000, 
+    "compression": "NONE", 
+    "File Statistics": [
+        {
+            "column": 0, 
+            "count": 21000, 
+            "has null": false
+        }, 
+        {
+            "count": 21000, 
+            "min": -2147439072, 
+            "column": 1, 
+            "max": 2147257982, 
+            "sum": -2100281080, 
+            "has null": false
+        }, 
+        {
+            "count": 21000, 
+            "min": "100119c272d7db89", 
+            "column": 2, 
+            "max": "fffe9f6f23b287f3", 
+            "sum": 334559, 
+            "has null": false
+        }
+    ], 
+    "version": "0.12 with HIVE-8732"
+}

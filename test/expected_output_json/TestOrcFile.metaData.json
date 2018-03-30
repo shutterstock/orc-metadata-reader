@@ -1,0 +1,722 @@
+{
+    "Stripe Statistics": [
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 1, 
+                    "has null": false
+                }, 
+                {
+                    "column": 1, 
+                    "count": 1, 
+                    "has null": false
+                }, 
+                {
+                    "count": 1, 
+                    "min": 127, 
+                    "column": 2, 
+                    "max": 127, 
+                    "sum": 127, 
+                    "has null": false
+                }, 
+                {
+                    "count": 1, 
+                    "min": 1024, 
+                    "column": 3, 
+                    "max": 1024, 
+                    "sum": 1024, 
+                    "has null": false
+                }, 
+                {
+                    "count": 1, 
+                    "min": 42, 
+                    "column": 4, 
+                    "max": 42, 
+                    "sum": 42, 
+                    "has null": false
+                }, 
+                {
+                    "count": 1, 
+                    "min": -2147483648, 
+                    "column": 5, 
+                    "max": -2147483648, 
+                    "sum": -2147483648, 
+                    "has null": false
+                }, 
+                {
+                    "count": 1, 
+                    "min": 3.1414999961853027, 
+                    "column": 6, 
+                    "max": 3.1414999961853027, 
+                    "sum": 3.1414999961853027, 
+                    "has null": false
+                }, 
+                {
+                    "count": 1, 
+                    "min": -2.713, 
+                    "column": 7, 
+                    "max": -2.713, 
+                    "sum": -2.713, 
+                    "has null": false
+                }, 
+                {
+                    "column": 8, 
+                    "count": 0, 
+                    "has null": true
+                }, 
+                {
+                    "column": 9, 
+                    "count": 0, 
+                    "max": null, 
+                    "min": null, 
+                    "has null": true
+                }, 
+                {
+                    "column": 10, 
+                    "count": 0, 
+                    "has null": true
+                }, 
+                {
+                    "column": 11, 
+                    "count": 0, 
+                    "has null": false
+                }, 
+                {
+                    "column": 12, 
+                    "count": 0, 
+                    "has null": false
+                }, 
+                {
+                    "column": 13, 
+                    "count": 0, 
+                    "sum": 0, 
+                    "has null": false
+                }, 
+                {
+                    "column": 14, 
+                    "count": 0, 
+                    "max": null, 
+                    "min": null, 
+                    "has null": false
+                }, 
+                {
+                    "column": 15, 
+                    "count": 0, 
+                    "has null": true
+                }, 
+                {
+                    "column": 16, 
+                    "count": 0, 
+                    "has null": false
+                }, 
+                {
+                    "column": 17, 
+                    "count": 0, 
+                    "sum": 0, 
+                    "has null": false
+                }, 
+                {
+                    "column": 18, 
+                    "count": 0, 
+                    "max": null, 
+                    "min": null, 
+                    "has null": false
+                }, 
+                {
+                    "column": 19, 
+                    "count": 0, 
+                    "has null": true
+                }, 
+                {
+                    "column": 20, 
+                    "count": 0, 
+                    "max": null, 
+                    "min": null, 
+                    "has null": false
+                }, 
+                {
+                    "column": 21, 
+                    "count": 0, 
+                    "has null": false
+                }, 
+                {
+                    "column": 22, 
+                    "count": 0, 
+                    "sum": 0, 
+                    "has null": false
+                }, 
+                {
+                    "column": 23, 
+                    "count": 0, 
+                    "max": null, 
+                    "min": null, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 0
+        }
+    ], 
+    "compression_size": 0, 
+    "rows": 1, 
+    "compression": "NONE", 
+    "File Statistics": [
+        {
+            "column": 0, 
+            "count": 1, 
+            "has null": false
+        }, 
+        {
+            "column": 1, 
+            "count": 1, 
+            "has null": false
+        }, 
+        {
+            "count": 1, 
+            "min": 127, 
+            "column": 2, 
+            "max": 127, 
+            "sum": 127, 
+            "has null": false
+        }, 
+        {
+            "count": 1, 
+            "min": 1024, 
+            "column": 3, 
+            "max": 1024, 
+            "sum": 1024, 
+            "has null": false
+        }, 
+        {
+            "count": 1, 
+            "min": 42, 
+            "column": 4, 
+            "max": 42, 
+            "sum": 42, 
+            "has null": false
+        }, 
+        {
+            "count": 1, 
+            "min": -2147483648, 
+            "column": 5, 
+            "max": -2147483648, 
+            "sum": -2147483648, 
+            "has null": false
+        }, 
+        {
+            "count": 1, 
+            "min": 3.1414999961853027, 
+            "column": 6, 
+            "max": 3.1414999961853027, 
+            "sum": 3.1414999961853027, 
+            "has null": false
+        }, 
+        {
+            "count": 1, 
+            "min": -2.713, 
+            "column": 7, 
+            "max": -2.713, 
+            "sum": -2.713, 
+            "has null": false
+        }, 
+        {
+            "column": 8, 
+            "count": 0, 
+            "has null": true
+        }, 
+        {
+            "column": 9, 
+            "count": 0, 
+            "max": null, 
+            "min": null, 
+            "has null": true
+        }, 
+        {
+            "column": 10, 
+            "count": 0, 
+            "has null": true
+        }, 
+        {
+            "column": 11, 
+            "count": 0, 
+            "has null": false
+        }, 
+        {
+            "column": 12, 
+            "count": 0, 
+            "has null": false
+        }, 
+        {
+            "column": 13, 
+            "count": 0, 
+            "sum": 0, 
+            "has null": false
+        }, 
+        {
+            "column": 14, 
+            "count": 0, 
+            "max": null, 
+            "min": null, 
+            "has null": false
+        }, 
+        {
+            "column": 15, 
+            "count": 0, 
+            "has null": true
+        }, 
+        {
+            "column": 16, 
+            "count": 0, 
+            "has null": false
+        }, 
+        {
+            "column": 17, 
+            "count": 0, 
+            "sum": 0, 
+            "has null": false
+        }, 
+        {
+            "column": 18, 
+            "count": 0, 
+            "max": null, 
+            "min": null, 
+            "has null": false
+        }, 
+        {
+            "column": 19, 
+            "count": 0, 
+            "has null": true
+        }, 
+        {
+            "column": 20, 
+            "count": 0, 
+            "max": null, 
+            "min": null, 
+            "has null": false
+        }, 
+        {
+            "column": 21, 
+            "count": 0, 
+            "has null": false
+        }, 
+        {
+            "column": 22, 
+            "count": 0, 
+            "sum": 0, 
+            "has null": false
+        }, 
+        {
+            "column": 23, 
+            "count": 0, 
+            "max": null, 
+            "min": null, 
+            "has null": false
+        }
+    ], 
+    "Stripes": [
+        {
+            "index": 427, 
+            "rows": 1, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 3, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 4, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 5, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 6, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 7, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 8, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 9, 
+                    "encoding": "DICTIONARY_V2[0]"
+                }, 
+                {
+                    "column": 10, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 11, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 12, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 13, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 14, 
+                    "encoding": "DICTIONARY_V2[0]"
+                }, 
+                {
+                    "column": 15, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 16, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 17, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 18, 
+                    "encoding": "DICTIONARY_V2[0]"
+                }, 
+                {
+                    "column": 19, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 20, 
+                    "encoding": "DICTIONARY_V2[0]"
+                }, 
+                {
+                    "column": 21, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 22, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 23, 
+                    "encoding": "DICTIONARY_V2[0]"
+                }
+            ], 
+            "tail": 510, 
+            "Streams": [
+                {
+                    "column": 0, 
+                    "start": 3, 
+                    "section": "ROW_INDEX", 
+                    "length": 8
+                }, 
+                {
+                    "column": 1, 
+                    "start": 11, 
+                    "section": "ROW_INDEX", 
+                    "length": 18
+                }, 
+                {
+                    "column": 2, 
+                    "start": 29, 
+                    "section": "ROW_INDEX", 
+                    "length": 23
+                }, 
+                {
+                    "column": 3, 
+                    "start": 52, 
+                    "section": "ROW_INDEX", 
+                    "length": 23
+                }, 
+                {
+                    "column": 4, 
+                    "start": 75, 
+                    "section": "ROW_INDEX", 
+                    "length": 20
+                }, 
+                {
+                    "column": 5, 
+                    "start": 95, 
+                    "section": "ROW_INDEX", 
+                    "length": 35
+                }, 
+                {
+                    "column": 6, 
+                    "start": 130, 
+                    "section": "ROW_INDEX", 
+                    "length": 40
+                }, 
+                {
+                    "column": 7, 
+                    "start": 170, 
+                    "section": "ROW_INDEX", 
+                    "length": 40
+                }, 
+                {
+                    "column": 8, 
+                    "start": 210, 
+                    "section": "ROW_INDEX", 
+                    "length": 20
+                }, 
+                {
+                    "column": 9, 
+                    "start": 230, 
+                    "section": "ROW_INDEX", 
+                    "length": 17
+                }, 
+                {
+                    "column": 10, 
+                    "start": 247, 
+                    "section": "ROW_INDEX", 
+                    "length": 13
+                }, 
+                {
+                    "column": 11, 
+                    "start": 260, 
+                    "section": "ROW_INDEX", 
+                    "length": 12
+                }, 
+                {
+                    "column": 12, 
+                    "start": 272, 
+                    "section": "ROW_INDEX", 
+                    "length": 8
+                }, 
+                {
+                    "column": 13, 
+                    "start": 280, 
+                    "section": "ROW_INDEX", 
+                    "length": 16
+                }, 
+                {
+                    "column": 14, 
+                    "start": 296, 
+                    "section": "ROW_INDEX", 
+                    "length": 14
+                }, 
+                {
+                    "column": 15, 
+                    "start": 310, 
+                    "section": "ROW_INDEX", 
+                    "length": 15
+                }, 
+                {
+                    "column": 16, 
+                    "start": 325, 
+                    "section": "ROW_INDEX", 
+                    "length": 8
+                }, 
+                {
+                    "column": 17, 
+                    "start": 333, 
+                    "section": "ROW_INDEX", 
+                    "length": 16
+                }, 
+                {
+                    "column": 18, 
+                    "start": 349, 
+                    "section": "ROW_INDEX", 
+                    "length": 14
+                }, 
+                {
+                    "column": 19, 
+                    "start": 363, 
+                    "section": "ROW_INDEX", 
+                    "length": 15
+                }, 
+                {
+                    "column": 20, 
+                    "start": 378, 
+                    "section": "ROW_INDEX", 
+                    "length": 14
+                }, 
+                {
+                    "column": 21, 
+                    "start": 392, 
+                    "section": "ROW_INDEX", 
+                    "length": 8
+                }, 
+                {
+                    "column": 22, 
+                    "start": 400, 
+                    "section": "ROW_INDEX", 
+                    "length": 16
+                }, 
+                {
+                    "column": 23, 
+                    "start": 416, 
+                    "section": "ROW_INDEX", 
+                    "length": 14
+                }, 
+                {
+                    "column": 1, 
+                    "start": 430, 
+                    "section": "DATA", 
+                    "length": 2
+                }, 
+                {
+                    "column": 2, 
+                    "start": 432, 
+                    "section": "DATA", 
+                    "length": 2
+                }, 
+                {
+                    "column": 3, 
+                    "start": 434, 
+                    "section": "DATA", 
+                    "length": 4
+                }, 
+                {
+                    "column": 4, 
+                    "start": 438, 
+                    "section": "DATA", 
+                    "length": 3
+                }, 
+                {
+                    "column": 5, 
+                    "start": 441, 
+                    "section": "DATA", 
+                    "length": 7
+                }, 
+                {
+                    "column": 6, 
+                    "start": 448, 
+                    "section": "DATA", 
+                    "length": 4
+                }, 
+                {
+                    "column": 7, 
+                    "start": 452, 
+                    "section": "DATA", 
+                    "length": 8
+                }, 
+                {
+                    "column": 8, 
+                    "start": 460, 
+                    "section": "PRESENT", 
+                    "length": 2
+                }, 
+                {
+                    "column": 8, 
+                    "start": 462, 
+                    "section": "DATA", 
+                    "length": 0
+                }, 
+                {
+                    "column": 8, 
+                    "start": 462, 
+                    "section": "LENGTH", 
+                    "length": 0
+                }, 
+                {
+                    "column": 9, 
+                    "start": 462, 
+                    "section": "PRESENT", 
+                    "length": 2
+                }, 
+                {
+                    "column": 9, 
+                    "start": 464, 
+                    "section": "DATA", 
+                    "length": 0
+                }, 
+                {
+                    "column": 10, 
+                    "start": 464, 
+                    "section": "PRESENT", 
+                    "length": 2
+                }, 
+                {
+                    "column": 11, 
+                    "start": 466, 
+                    "section": "LENGTH", 
+                    "length": 0
+                }, 
+                {
+                    "column": 13, 
+                    "start": 466, 
+                    "section": "DATA", 
+                    "length": 0
+                }, 
+                {
+                    "column": 14, 
+                    "start": 466, 
+                    "section": "DATA", 
+                    "length": 0
+                }, 
+                {
+                    "column": 15, 
+                    "start": 466, 
+                    "section": "PRESENT", 
+                    "length": 2
+                }, 
+                {
+                    "column": 15, 
+                    "start": 468, 
+                    "section": "LENGTH", 
+                    "length": 0
+                }, 
+                {
+                    "column": 17, 
+                    "start": 468, 
+                    "section": "DATA", 
+                    "length": 0
+                }, 
+                {
+                    "column": 18, 
+                    "start": 468, 
+                    "section": "DATA", 
+                    "length": 0
+                }, 
+                {
+                    "column": 19, 
+                    "start": 468, 
+                    "section": "PRESENT", 
+                    "length": 2
+                }, 
+                {
+                    "column": 19, 
+                    "start": 470, 
+                    "section": "LENGTH", 
+                    "length": 0
+                }, 
+                {
+                    "column": 20, 
+                    "start": 470, 
+                    "section": "DATA", 
+                    "length": 0
+                }, 
+                {
+                    "column": 22, 
+                    "start": 470, 
+                    "section": "DATA", 
+                    "length": 0
+                }, 
+                {
+                    "column": 23, 
+                    "start": 470, 
+                    "section": "DATA", 
+                    "length": 0
+                }
+            ], 
+            "stripe": 0, 
+            "offset": 3, 
+            "data": 40
+        }
+    ], 
+    "version": "0.12 with HIVE-8732", 
+    "schema": "struct<boolean1:boolean,byte1:byte,short1:tinyint,int1:int,long1:bigint,float1:float,double1:double,bytes1:binary,string1:string,middle:struct<list:array<struct<int1:int,string1:string>>>,list:array<struct<int1:int,string1:string>>,map:map<string,struct<int1:int,string1:string>>>"
+}

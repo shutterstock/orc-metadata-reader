@@ -1,0 +1,150 @@
+{
+    "Stripe Statistics": [], 
+    "compression_size": 0, 
+    "rows": 0, 
+    "compression": "NONE", 
+    "File Statistics": [
+        {
+            "column": 0, 
+            "count": 0, 
+            "has null": false
+        }, 
+        {
+            "column": 1, 
+            "count": 0, 
+            "has null": false
+        }, 
+        {
+            "column": 2, 
+            "count": 0, 
+            "sum": 0, 
+            "has null": false
+        }, 
+        {
+            "column": 3, 
+            "count": 0, 
+            "sum": 0, 
+            "has null": false
+        }, 
+        {
+            "column": 4, 
+            "count": 0, 
+            "sum": 0, 
+            "has null": false
+        }, 
+        {
+            "column": 5, 
+            "count": 0, 
+            "sum": 0, 
+            "has null": false
+        }, 
+        {
+            "column": 6, 
+            "count": 0, 
+            "sum": 0.0, 
+            "has null": false
+        }, 
+        {
+            "column": 7, 
+            "count": 0, 
+            "sum": 0.0, 
+            "has null": false
+        }, 
+        {
+            "column": 8, 
+            "count": 0, 
+            "has null": false
+        }, 
+        {
+            "column": 9, 
+            "count": 0, 
+            "max": null, 
+            "min": null, 
+            "has null": false
+        }, 
+        {
+            "column": 10, 
+            "count": 0, 
+            "has null": false
+        }, 
+        {
+            "column": 11, 
+            "count": 0, 
+            "has null": false
+        }, 
+        {
+            "column": 12, 
+            "count": 0, 
+            "has null": false
+        }, 
+        {
+            "column": 13, 
+            "count": 0, 
+            "sum": 0, 
+            "has null": false
+        }, 
+        {
+            "column": 14, 
+            "count": 0, 
+            "max": null, 
+            "min": null, 
+            "has null": false
+        }, 
+        {
+            "column": 15, 
+            "count": 0, 
+            "has null": false
+        }, 
+        {
+            "column": 16, 
+            "count": 0, 
+            "has null": false
+        }, 
+        {
+            "column": 17, 
+            "count": 0, 
+            "sum": 0, 
+            "has null": false
+        }, 
+        {
+            "column": 18, 
+            "count": 0, 
+            "max": null, 
+            "min": null, 
+            "has null": false
+        }, 
+        {
+            "column": 19, 
+            "count": 0, 
+            "has null": false
+        }, 
+        {
+            "column": 20, 
+            "count": 0, 
+            "max": null, 
+            "min": null, 
+            "has null": false
+        }, 
+        {
+            "column": 21, 
+            "count": 0, 
+            "has null": false
+        }, 
+        {
+            "column": 22, 
+            "count": 0, 
+            "sum": 0, 
+            "has null": false
+        }, 
+        {
+            "column": 23, 
+            "count": 0, 
+            "max": null, 
+            "min": null, 
+            "has null": false
+        }
+    ], 
+    "Stripes": [], 
+    "version": "0.12 with HIVE-8732", 
+    "schema": "struct<boolean1:boolean,byte1:byte,short1:tinyint,int1:int,long1:bigint,float1:float,double1:double,bytes1:binary,string1:string,middle:struct<list:array<struct<int1:int,string1:string>>>,list:array<struct<int1:int,string1:string>>,map:map<string,struct<int1:int,string1:string>>>"
+}

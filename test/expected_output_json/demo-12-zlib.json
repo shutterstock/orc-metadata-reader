@@ -1,0 +1,386 @@
+{
+    "Stripe Statistics": [
+        {
+            "statistics": [
+                {
+                    "column": 0, 
+                    "count": 1920800, 
+                    "has null": false
+                }, 
+                {
+                    "count": 1920800, 
+                    "min": 1, 
+                    "column": 1, 
+                    "max": 1920800, 
+                    "sum": -2098656880, 
+                    "has null": false
+                }, 
+                {
+                    "count": 1920800, 
+                    "min": "F", 
+                    "column": 2, 
+                    "max": "M", 
+                    "sum": 1920800, 
+                    "has null": false
+                }, 
+                {
+                    "count": 1920800, 
+                    "min": "D", 
+                    "column": 3, 
+                    "max": "W", 
+                    "sum": 1920800, 
+                    "has null": false
+                }, 
+                {
+                    "count": 1920800, 
+                    "min": "2 yr Degree", 
+                    "column": 4, 
+                    "max": "Unknown", 
+                    "sum": 18384800, 
+                    "has null": false
+                }, 
+                {
+                    "count": 1920800, 
+                    "min": 500, 
+                    "column": 5, 
+                    "max": 10000, 
+                    "sum": 1494265408, 
+                    "has null": false
+                }, 
+                {
+                    "count": 1920800, 
+                    "min": "Good", 
+                    "column": 6, 
+                    "max": "Unknown", 
+                    "sum": 13445600, 
+                    "has null": false
+                }, 
+                {
+                    "count": 1920800, 
+                    "min": 0, 
+                    "column": 7, 
+                    "max": 6, 
+                    "sum": 5762400, 
+                    "has null": false
+                }, 
+                {
+                    "count": 1920800, 
+                    "min": 0, 
+                    "column": 8, 
+                    "max": 6, 
+                    "sum": 5762400, 
+                    "has null": false
+                }, 
+                {
+                    "count": 1920800, 
+                    "min": 0, 
+                    "column": 9, 
+                    "max": 6, 
+                    "sum": 5762400, 
+                    "has null": false
+                }
+            ], 
+            "stripe": 0
+        }
+    ], 
+    "compression_size": 262144, 
+    "rows": 1920800, 
+    "compression": "ZLIB", 
+    "File Statistics": [
+        {
+            "column": 0, 
+            "count": 1920800, 
+            "has null": false
+        }, 
+        {
+            "count": 1920800, 
+            "min": 1, 
+            "column": 1, 
+            "max": 1920800, 
+            "sum": -2098656880, 
+            "has null": false
+        }, 
+        {
+            "count": 1920800, 
+            "min": "F", 
+            "column": 2, 
+            "max": "M", 
+            "sum": 1920800, 
+            "has null": false
+        }, 
+        {
+            "count": 1920800, 
+            "min": "D", 
+            "column": 3, 
+            "max": "W", 
+            "sum": 1920800, 
+            "has null": false
+        }, 
+        {
+            "count": 1920800, 
+            "min": "2 yr Degree", 
+            "column": 4, 
+            "max": "Unknown", 
+            "sum": 18384800, 
+            "has null": false
+        }, 
+        {
+            "count": 1920800, 
+            "min": 500, 
+            "column": 5, 
+            "max": 10000, 
+            "sum": 1494265408, 
+            "has null": false
+        }, 
+        {
+            "count": 1920800, 
+            "min": "Good", 
+            "column": 6, 
+            "max": "Unknown", 
+            "sum": 13445600, 
+            "has null": false
+        }, 
+        {
+            "count": 1920800, 
+            "min": 0, 
+            "column": 7, 
+            "max": 6, 
+            "sum": 5762400, 
+            "has null": false
+        }, 
+        {
+            "count": 1920800, 
+            "min": 0, 
+            "column": 8, 
+            "max": 6, 
+            "sum": 5762400, 
+            "has null": false
+        }, 
+        {
+            "count": 1920800, 
+            "min": 0, 
+            "column": 9, 
+            "max": 6, 
+            "sum": 5762400, 
+            "has null": false
+        }
+    ], 
+    "Stripes": [
+        {
+            "index": 14035, 
+            "rows": 1920800, 
+            "Encodings": [
+                {
+                    "column": 0, 
+                    "encoding": "DIRECT"
+                }, 
+                {
+                    "column": 1, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 2, 
+                    "encoding": "DICTIONARY_V2[2]"
+                }, 
+                {
+                    "column": 3, 
+                    "encoding": "DICTIONARY_V2[5]"
+                }, 
+                {
+                    "column": 4, 
+                    "encoding": "DICTIONARY_V2[7]"
+                }, 
+                {
+                    "column": 5, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 6, 
+                    "encoding": "DICTIONARY_V2[4]"
+                }, 
+                {
+                    "column": 7, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 8, 
+                    "encoding": "DIRECT_V2"
+                }, 
+                {
+                    "column": 9, 
+                    "encoding": "DIRECT_V2"
+                }
+            ], 
+            "tail": 166, 
+            "Streams": [
+                {
+                    "column": 0, 
+                    "start": 3, 
+                    "section": "ROW_INDEX", 
+                    "length": 30
+                }, 
+                {
+                    "column": 1, 
+                    "start": 33, 
+                    "section": "ROW_INDEX", 
+                    "length": 3397
+                }, 
+                {
+                    "column": 2, 
+                    "start": 3430, 
+                    "section": "ROW_INDEX", 
+                    "length": 1037
+                }, 
+                {
+                    "column": 3, 
+                    "start": 4467, 
+                    "section": "ROW_INDEX", 
+                    "length": 1184
+                }, 
+                {
+                    "column": 4, 
+                    "start": 5651, 
+                    "section": "ROW_INDEX", 
+                    "length": 1029
+                }, 
+                {
+                    "column": 5, 
+                    "start": 6680, 
+                    "section": "ROW_INDEX", 
+                    "length": 897
+                }, 
+                {
+                    "column": 6, 
+                    "start": 7577, 
+                    "section": "ROW_INDEX", 
+                    "length": 1201
+                }, 
+                {
+                    "column": 7, 
+                    "start": 8778, 
+                    "section": "ROW_INDEX", 
+                    "length": 1973
+                }, 
+                {
+                    "column": 8, 
+                    "start": 10751, 
+                    "section": "ROW_INDEX", 
+                    "length": 1762
+                }, 
+                {
+                    "column": 9, 
+                    "start": 12513, 
+                    "section": "ROW_INDEX", 
+                    "length": 1525
+                }, 
+                {
+                    "column": 1, 
+                    "start": 14038, 
+                    "section": "DATA", 
+                    "length": 5056
+                }, 
+                {
+                    "column": 2, 
+                    "start": 19094, 
+                    "section": "DATA", 
+                    "length": 1808
+                }, 
+                {
+                    "column": 2, 
+                    "start": 20902, 
+                    "section": "LENGTH", 
+                    "length": 6
+                }, 
+                {
+                    "column": 2, 
+                    "start": 20908, 
+                    "section": "DICTIONARY_DATA", 
+                    "length": 5
+                }, 
+                {
+                    "column": 3, 
+                    "start": 20913, 
+                    "section": "DATA", 
+                    "length": 5400
+                }, 
+                {
+                    "column": 3, 
+                    "start": 26313, 
+                    "section": "LENGTH", 
+                    "length": 5
+                }, 
+                {
+                    "column": 3, 
+                    "start": 26318, 
+                    "section": "DICTIONARY_DATA", 
+                    "length": 8
+                }, 
+                {
+                    "column": 4, 
+                    "start": 26326, 
+                    "section": "DATA", 
+                    "length": 2111
+                }, 
+                {
+                    "column": 4, 
+                    "start": 28437, 
+                    "section": "LENGTH", 
+                    "length": 9
+                }, 
+                {
+                    "column": 4, 
+                    "start": 28446, 
+                    "section": "DICTIONARY_DATA", 
+                    "length": 57
+                }, 
+                {
+                    "column": 5, 
+                    "start": 28503, 
+                    "section": "DATA", 
+                    "length": 1353
+                }, 
+                {
+                    "column": 6, 
+                    "start": 29856, 
+                    "section": "DATA", 
+                    "length": 2179
+                }, 
+                {
+                    "column": 6, 
+                    "start": 32035, 
+                    "section": "LENGTH", 
+                    "length": 7
+                }, 
+                {
+                    "column": 6, 
+                    "start": 32042, 
+                    "section": "DICTIONARY_DATA", 
+                    "length": 29
+                }, 
+                {
+                    "column": 7, 
+                    "start": 32071, 
+                    "section": "DATA", 
+                    "length": 4969
+                }, 
+                {
+                    "column": 8, 
+                    "start": 37040, 
+                    "section": "DATA", 
+                    "length": 4362
+                }, 
+                {
+                    "column": 9, 
+                    "start": 41402, 
+                    "section": "DATA", 
+                    "length": 4024
+                }
+            ], 
+            "stripe": 0, 
+            "offset": 3, 
+            "data": 31388
+        }
+    ], 
+    "version": "0.12 with HIVE-8732", 
+    "schema": "struct<_col0:int,_col1:string,_col2:string,_col3:string,_col4:int,_col5:string,_col6:int,_col7:int,_col8:int>"
+}
